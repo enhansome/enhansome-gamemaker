@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 38,706 | 🐛 1,994 | 🌐 C++ | 📅 2026-08-13 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 38,728 | 🐛 1,996 | 🌐 C++ | 📅 2026-08-14 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -94,7 +94,7 @@ This includes data structures and file formats that do not fit into a more speci
 These work on specific platform(s) and enable the games to do something that would be impossible, impractical, or inefficient to do in GML alone. Native extensions related to a specific task (e.g. input handling) can be found in those sections.
 
 * [GMD3D11](https://github.com/blueburncz/GMD3D11) ⭐ 33 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-01-17 - A DLL for interfacing with Windows Direct3D.
-* [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-11 - Official, schema-driven code generator for native extensions.
+* [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) ⭐ 25 | 🐛 3 | 🌐 C# | 📅 2026-08-14 - Official, schema-driven code generator for native extensions.
 * [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2024-06-15 - A template project for building DLLs for GameMaker.
 * [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2025-08-28 - A way to use JS extensions in GX/WebAssembly games.
 * [gameframe](https://github.com/YAL-GameMaker/gameframe) ⭐ 15 | 🐛 0 | 🌐 Haxe | 📅 2024-09-15 - Custom window caption and border for Windows.
@@ -121,8 +121,8 @@ These work on specific platform(s) and enable the games to do something that wou
 Custom timers, timelines, and task scheduling.
 
 * [DoLater](https://github.com/JujuAdams/DoLater) ⭐ 45 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-06-07 - Deferred code execution improving on the native call\_later() function.
+* [GMMT](https://github.com/erkan612/GMMT) ⭐ 8 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-09 - Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control.
 * [GMTimeLine](https://github.com/TimVN/GMTimeLine) ⭐ 7 | 🐛 0 | 🌐 Yacc | 📅 2022-11-03 - A pure code alternative to GameMaker timelines.
-* [GMMT](https://github.com/erkan612/GMMT) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-09 - Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control.
 * [fuwafuwa](https://github.com/kemonologic/fuwafuwa) ⭐ 6 | 🐛 10 | 🌐 Game Maker Language | 📅 2022-07-28 - Easy-to-use timer system.
 * [Stopwatch](https://github.com/Lojemiru/Stopwatch) ⭐ 4 | 🐛 0 | 🌐 Yacc | 📅 2022-10-28 - GameMaker alarm replacement.
 * [Agenda](https://github.com/benal20/Agenda.gml) ⭐ 4 | 🐛 0 | 🌐 Yacc | 📅 2026-05-03 - Schedule and delay the execution of callbacks.
@@ -150,7 +150,7 @@ Custom timers, timelines, and task scheduling.
 * [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) ⭐ 34 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-02-10 - A tool to benchmark GML code.
 * [FAST](https://github.com/Hyomoto/FAST) ⭐ 31 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-02-23 - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
 * [Seedpod](https://github.com/daikon-games/gm-seedpod) ⭐ 29 | 🐛 1 | 🌐 Game Maker Language | 📅 2023-07-18 - A collection of scripts to improve the GML programming experience.
-* [Figgy](https://github.com/glebtsereteli/Figgy) ⭐ 26 | 🐛 4 | 🌐 Game Maker Language | 📅 2026-08-10 - Centralized and persistent live configs for seamless game tuning and balancing.
+* [Figgy](https://github.com/glebtsereteli/Figgy) ⭐ 27 | 🐛 4 | 🌐 Game Maker Language | 📅 2026-08-10 - Centralized and persistent live configs for seamless game tuning and balancing.
 * [GMLodash](https://github.com/DatZach/GMLodash) ⭐ 25 | 🐛 1 | 🌐 Game Maker Language | 📅 2021-11-28 - Functional programming in GML.
 * [Canvas](https://github.com/tabularelf/Canvas) ⭐ 22 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-04-11 - Another great solution for surface management.
 * [Mathematical Scripts](https://github.com/adam-rumpf/game-maker-scripts) ⭐ 17 | 🐛 1 | 🌐 Game Maker Language | 📅 2023-06-12 - A collection of math scripts.
@@ -164,7 +164,7 @@ Custom timers, timelines, and task scheduling.
 * [Autoframer](https://github.com/mstop4/auto-framer) ⭐ 7 | 🐛 0 | 🌐 Yacc | 📅 2021-05-02 - Automatically handles resizing the game view across different display and window sizes.
 * [gml-highscorer](https://github.com/Grisgram/gml-highscorer) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-09-01 - Highscore and trophy system.
 * [RenderStack](https://github.com/FoxyOfJungle/RenderStack) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-12-17 - Organize your game's rendering into a customizable order.
-* [GMVex](https://github.com/erkan612/GMVex) ⭐ 6 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-30 - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
+* [GMVex](https://github.com/erkan612/GMVex) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-30 - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
 * [Voxeledphoton's FreeGMScripts](https://github.com/vphoton/FreeGMScripts) ⭐ 3 | 🐛 0 | 📅 2023-01-10 - Additional GML helper functions. Some may be out of date with 2.3+ syntax.
 * [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) ⭐ 3 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-11-08 - Improves Catspeak performance.
 * [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
@@ -232,7 +232,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [NotificationSystem](https://github.com/babaganosch/NotificationSystem) ⭐ 44 | 🐛 0 | 🌐 Yacc | 📅 2023-12-28 - Notifications in GameMaker.
 * [Emu UI](https://github.com/DragoniteSpam/Emu) ⭐ 43 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-02-18 - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 * [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 36 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-08-11 - Flexpanel system for modern, touch-friendly interfaces.
-* [GMUI](https://github.com/erkan612/GMUI) ⭐ 30 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-10 - Immediate mode GameMaker UI library, tons of UI components.
+* [GMUI](https://github.com/erkan612/GMUI) ⭐ 31 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-10 - Immediate mode GameMaker UI library, tons of UI components.
 * [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) ⭐ 29 | 🐛 21 | 🌐 Game Maker Language | 📅 2021-07-20 - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
 * [Guido](https://github.com/JujuAdams/Guido) ⚠️ Archived - Simple immediate mode GUI framework.
 * [GMS2-UI-Library](https://github.com/nabilatsoulcade/GMS2-UI-Library) ⭐ 17 | 🐛 0 | 🌐 Yacc | 📅 2018-01-11 - A Library Full of useful scripts for implementing your UI designs in GameMaker.
@@ -254,7 +254,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Localization
 
 * [Lexicon](https://github.com/tabularelf/lexicon) ⭐ 52 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-07-11 - Another localization solution focused on simplifying implementation.
-* [polyglot](https://github.com/daikon-games/polyglot) ⭐ 34 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-02-23 - Localization library.
+* [polyglot](https://github.com/daikon-games/polyglot) ⭐ 35 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-02-23 - Localization library.
 * [gm-i18n](https://github.com/CreativeHandOficial/gm-i18n) ⭐ 21 | 🐛 0 | 🌐 Yacc | 📅 2023-02-04 - Internationalization of texts simply and quickly, using JSON files.
 * [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2026-01-23 - Similar export tool to GMLocalize but exports to a csv.
 * [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2022-07-05 - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
@@ -266,7 +266,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Physics
 
 * [Loj Hadron Collider](https://github.com/Lojemiru/Loj-Hadron-Collider) ⭐ 42 | 🐛 2 | 🌐 Yacc | 📅 2022-10-28 - A robust, pixel-perfect collision engine.
-* [Fracture](https://github.com/GlebTsereteli/Fracture) ⭐ 13 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-25 - Physics-based destruction for procedural Box2D fracture effects.
+* [Fracture](https://github.com/GlebTsereteli/Fracture) ⭐ 14 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-25 - Physics-based destruction for procedural Box2D fracture effects.
 * [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) ⭐ 11 | 🐛 0 | 🌐 Yacc | 📅 2021-06-10 - Verlet integration example used for visuals.
 * [Inverse Kinematics Extension](https://github.com/tonystr/Inverse-Kinematics-Extension-for-Gamemaker) ⭐ 4 | 🐛 0 | 📅 2017-12-26 - A library for working with inverse kinematics.
 * [On Slopes and Grids](https://forum.gamemaker.io/index.php?threads/on-slopes-and-grids-subpixel-perfect-topdown-movement-and-collision-line-without-objects.4073/) - A tutorial to implement 45° slopes.
@@ -457,7 +457,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Useful Extras
 
-* [OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) ⭐ 124 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-12 - Accurate framework to make classic Sonic games.
+* [OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) ⭐ 124 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-14 - Accurate framework to make classic Sonic games.
 * [Dracula Theme](https://github.com/dracula/gamemaker-studio) ⭐ 91 | 🐛 6 | 📅 2025-09-21 - A dark theme for the IDE.
 * [CleanShapes](https://github.com/JujuAdams/Clean-Shapes) ⭐ 47 | 🐛 9 | 🌐 Game Maker Language | 📅 2026-05-26 - Antialiased primitives library for GameMaker.
 * [Starfield Generator](https://github.com/PixelProphecy/gml_starfield_generator) ⭐ 33 | 🐛 1 | 🌐 Game Maker Language | 📅 2022-06-13 - A script to generate starfields in GameMaker's GML language.
@@ -526,7 +526,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,097 | 🐛 12 | 📅 2026-07-07 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,123 | 🐛 12 | 🌐 Markdown | 📅 2026-08-10.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,098 | 🐛 12 | 📅 2026-07-07 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,126 | 🐛 12 | 🌐 Markdown | 📅 2026-08-10.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -540,4 +540,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

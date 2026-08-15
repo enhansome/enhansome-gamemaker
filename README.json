@@ -297,7 +297,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T09:50:11Z",
+            "last_commit": "2026-08-14T22:16:05Z",
             "owner": "YoYoGames",
             "repo": "GM-ExtensionGenerator",
             "stars": 25
@@ -409,20 +409,6 @@
         },
         {
           "node_type": "item",
-          "title": "GMTimeLine",
-          "description": "A pure code alternative to GameMaker timelines.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Yacc",
-            "last_commit": "2022-11-03T22:35:32Z",
-            "owner": "TimVN",
-            "repo": "GMTimeLine",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
           "title": "GMMT",
           "description": "Tweening framework with 30+ easing functions, keyframes, clips, motion paths, spring physics, oscillation, perlin noise, and full playback control.",
           "children": [],
@@ -432,6 +418,20 @@
             "last_commit": "2026-08-09T05:12:58Z",
             "owner": "erkan612",
             "repo": "GMMT",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GMTimeLine",
+          "description": "A pure code alternative to GameMaker timelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Yacc",
+            "last_commit": "2022-11-03T22:35:32Z",
+            "owner": "TimVN",
+            "repo": "GMTimeLine",
             "stars": 7
           }
         },
@@ -738,7 +738,7 @@
             "last_commit": "2026-08-10T02:39:01Z",
             "owner": "GlebTsereteli",
             "repo": "Figgy",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -934,7 +934,7 @@
             "last_commit": "2026-07-30T03:11:37Z",
             "owner": "erkan612",
             "repo": "GMVex",
-            "stars": 6
+            "stars": 7
           }
         },
         {
@@ -1434,7 +1434,7 @@
             "last_commit": "2026-08-10T17:22:29Z",
             "owner": "erkan612",
             "repo": "GMUI",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -1566,7 +1566,7 @@
             "last_commit": "2026-02-23T04:12:53Z",
             "owner": "daikon-games",
             "repo": "polyglot",
-            "stars": 34
+            "stars": 35
           }
         },
         {
@@ -1656,7 +1656,7 @@
             "last_commit": "2026-07-25T11:54:55Z",
             "owner": "GlebTsereteli",
             "repo": "Fracture",
-            "stars": 13
+            "stars": 14
           }
         },
         {
@@ -2739,7 +2739,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-12T01:47:08Z",
+            "last_commit": "2026-08-14T16:59:14Z",
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
             "stars": 124
@@ -2940,7 +2940,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3097
+            "stars": 3098
           }
         },
         {
@@ -2967,7 +2967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T02:45:15.340Z",
+    "last_updated": "2026-08-15T01:48:41.784Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_sha": "1949fe11b8b2f9819bf79420296bec4e16ac5fd4",
     "enhanced_repository": "enhansome/enhansome-gamemaker",
