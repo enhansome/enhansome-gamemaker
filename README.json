@@ -1114,7 +1114,7 @@
             "last_commit": "2022-12-27T00:45:00Z",
             "owner": "pmarincak",
             "repo": "gms2-test",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -2739,7 +2739,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-14T16:59:14Z",
+            "last_commit": "2026-08-15T02:33:38Z",
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
             "stars": 124
@@ -2940,7 +2940,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3098
+            "stars": 3101
           }
         },
         {
@@ -2967,7 +2967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T01:48:41.784Z",
+    "last_updated": "2026-08-16T01:56:51.576Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_sha": "1949fe11b8b2f9819bf79420296bec4e16ac5fd4",
     "enhanced_repository": "enhansome/enhansome-gamemaker",
