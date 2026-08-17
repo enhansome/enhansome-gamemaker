@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-12T13:37:29Z",
+            "last_commit": "2026-08-16T11:13:12Z",
             "owner": "Mtax-Development",
             "repo": "GML-OOP",
             "stars": 34
@@ -883,6 +883,20 @@
         },
         {
           "node_type": "item",
+          "title": "Tweeny",
+          "description": "A fire-and-forget tweening library with support for animation curves and ease functions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-08-15T00:24:11Z",
+            "owner": "Kruger0",
+            "repo": "Tweeny",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Autoframer",
           "description": "Automatically handles resizing the game view across different display and window sizes.",
           "children": [],
@@ -982,7 +996,7 @@
             "last_commit": "2026-07-22T14:08:07Z",
             "owner": "YellowAfterlife",
             "repo": "GMEdit",
-            "stars": 369
+            "stars": 370
           }
         },
         {
@@ -1181,7 +1195,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T13:59:24Z",
+            "last_commit": "2026-08-16T18:30:16Z",
             "owner": "bscotch",
             "repo": "ganary",
             "stars": 10
@@ -1274,7 +1288,7 @@
             "last_commit": "2026-06-29T16:53:58Z",
             "owner": "AlubJ",
             "repo": "InputTouch",
-            "stars": 8
+            "stars": 9
           }
         },
         {
@@ -1322,7 +1336,7 @@
             "last_commit": "2026-08-13T09:43:21Z",
             "owner": "JujuAdams",
             "repo": "Chatterbox",
-            "stars": 173
+            "stars": 174
           }
         },
         {
@@ -1375,7 +1389,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-07-14T15:02:41Z",
+            "last_commit": "2026-08-16T19:24:50Z",
             "owner": "JujuAdams",
             "repo": "Bento",
             "stars": 53
@@ -1581,6 +1595,20 @@
             "owner": "CreativeHandOficial",
             "repo": "gm-i18n",
             "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Krug's Localize System",
+          "description": "A localization system with real-time Google Sheets API synchronization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2026-08-12T16:23:08Z",
+            "owner": "Kruger0",
+            "repo": "Localize",
+            "stars": 20
           }
         },
         {
@@ -1951,7 +1979,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-10T01:10:13Z",
+            "last_commit": "2026-08-17T00:13:11Z",
             "owner": "GlebTsereteli",
             "repo": "GMRoomLoader",
             "stars": 127
@@ -2182,7 +2210,7 @@
             "last_commit": "2026-01-15T16:18:57Z",
             "owner": "XorDev",
             "repo": "1PassBlur",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -2739,7 +2767,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-15T02:33:38Z",
+            "last_commit": "2026-08-16T04:54:08Z",
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
             "stars": 124
@@ -2831,20 +2859,6 @@
         },
         {
           "node_type": "item",
-          "title": "Animated Flag",
-          "description": "Vertex-animated flag.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Game Maker Language",
-            "last_commit": "2024-05-30T08:55:18Z",
-            "owner": "Grisgram",
-            "repo": "gml-animated-flag",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Tome",
           "description": "Automatically generate documentation sites from GameMaker projects.",
           "children": [],
@@ -2854,6 +2868,20 @@
             "last_commit": "2026-05-12T14:12:25Z",
             "owner": "CataclysmicStudios",
             "repo": "Tome",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animated Flag",
+          "description": "Vertex-animated flag.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Game Maker Language",
+            "last_commit": "2024-05-30T08:55:18Z",
+            "owner": "Grisgram",
+            "repo": "gml-animated-flag",
             "stars": 13
           }
         },
@@ -2940,7 +2968,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3101
+            "stars": 3102
           }
         },
         {
@@ -2967,9 +2995,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T01:56:51.576Z",
+    "last_updated": "2026-08-17T01:54:18.994Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
-    "original_repository_sha": "1949fe11b8b2f9819bf79420296bec4e16ac5fd4",
+    "original_repository_sha": "dd520c6d6d378d6419baaf42f1d2b982e50b3686",
     "enhanced_repository": "enhansome/enhansome-gamemaker",
     "enhanced_repository_description": null,
     "title": "Awesome GameMaker with stars"
