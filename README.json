@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-17T10:34:45Z",
+            "last_commit": "2026-08-18T17:58:14Z",
             "owner": "Mtax-Development",
             "repo": "GML-OOP",
             "stars": 34
@@ -297,7 +297,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-18T00:39:59Z",
+            "last_commit": "2026-08-18T13:56:01Z",
             "owner": "YoYoGames",
             "repo": "GM-ExtensionGenerator",
             "stars": 25
@@ -609,10 +609,10 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-07-04T22:27:42Z",
+            "last_commit": "2026-08-18T21:36:17Z",
             "owner": "katsaii",
             "repo": "catspeak-lang",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -1195,7 +1195,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T13:44:02Z",
+            "last_commit": "2026-08-18T16:44:41Z",
             "owner": "bscotch",
             "repo": "ganary",
             "stars": 10
@@ -1785,7 +1785,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-06-03T07:45:46Z",
+            "last_commit": "2026-08-18T22:49:32Z",
             "owner": "KormexGit",
             "repo": "GM-Animate",
             "stars": 9
@@ -2331,7 +2331,7 @@
           "repo_info": {
             "archived": false,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-17T19:43:30Z",
+            "last_commit": "2026-08-18T21:38:25Z",
             "owner": "JujuAdams",
             "repo": "Bonk",
             "stars": 15
@@ -2960,7 +2960,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3102
+            "stars": 3104
           }
         },
         {
@@ -2987,7 +2987,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T01:49:40.323Z",
+    "last_updated": "2026-08-19T01:51:57.880Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_sha": "dd520c6d6d378d6419baaf42f1d2b982e50b3686",
     "enhanced_repository": "enhansome/enhansome-gamemaker",
