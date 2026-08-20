@@ -654,7 +654,7 @@
             "last_commit": "2026-08-19T03:37:57Z",
             "owner": "katsaii",
             "repo": "catspeak-lang",
-            "stars": 134
+            "stars": 133
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "archived": false,
             "id": 310680327,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T16:44:41Z",
+            "last_commit": "2026-08-19T13:45:15Z",
             "owner": "bscotch",
             "repo": "ganary",
             "stars": 10
@@ -3144,7 +3144,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3105
+            "stars": 3104
           }
         },
         {
@@ -3167,7 +3167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:23.066Z",
+    "last_updated": "2026-08-20T01:50:29.451Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_id": 432027253,
     "original_repository_sha": "dd520c6d6d378d6419baaf42f1d2b982e50b3686",
