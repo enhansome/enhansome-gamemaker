@@ -2469,10 +2469,10 @@
             "archived": false,
             "id": 417679715,
             "language": "Python",
-            "last_commit": "2026-03-04T14:39:21Z",
+            "last_commit": "2026-08-20T16:24:26Z",
             "owner": "Sandman13sq",
             "repo": "DmrVBM-blender-to-gms2",
-            "stars": 44
+            "stars": 43
           }
         },
         {
@@ -2940,7 +2940,7 @@
             "archived": false,
             "id": 333001141,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-16T04:54:08Z",
+            "last_commit": "2026-08-20T02:53:35Z",
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
             "stars": 125
@@ -3144,7 +3144,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3104
+            "stars": 3108
           }
         },
         {
@@ -3167,7 +3167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T01:50:29.451Z",
+    "last_updated": "2026-08-21T01:56:24.246Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_id": 432027253,
     "original_repository_sha": "dd520c6d6d378d6419baaf42f1d2b982e50b3686",
