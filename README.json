@@ -1278,7 +1278,7 @@
             "archived": false,
             "id": 310680327,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T13:45:15Z",
+            "last_commit": "2026-08-21T13:45:28Z",
             "owner": "bscotch",
             "repo": "ganary",
             "stars": 10
@@ -2469,7 +2469,7 @@
             "archived": false,
             "id": 417679715,
             "language": "Python",
-            "last_commit": "2026-08-20T16:24:26Z",
+            "last_commit": "2026-08-21T04:25:07Z",
             "owner": "Sandman13sq",
             "repo": "DmrVBM-blender-to-gms2",
             "stars": 43
@@ -2787,7 +2787,7 @@
             "archived": false,
             "id": 565531477,
             "language": "Game Maker Language",
-            "last_commit": "2026-04-26T00:16:11Z",
+            "last_commit": "2026-08-21T19:05:28Z",
             "owner": "stann-co",
             "repo": "STANNcam",
             "stars": 43
@@ -3167,7 +3167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T01:56:24.246Z",
+    "last_updated": "2026-08-22T01:48:58.203Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_id": 432027253,
     "original_repository_sha": "dd520c6d6d378d6419baaf42f1d2b982e50b3686",
