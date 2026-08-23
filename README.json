@@ -1473,7 +1473,7 @@
             "last_commit": "2023-03-05T19:21:41Z",
             "owner": "glitchroy",
             "repo": "textboxy",
-            "stars": 65
+            "stars": 64
           }
         },
         {
@@ -2924,6 +2924,21 @@
             "repo": "dijkstra-graph",
             "stars": 6
           }
+        },
+        {
+          "node_type": "item",
+          "title": "GMNav",
+          "description": "High-performance, resumable navigation engine for GameMaker that handles grid, isometric, hex, and platformer maps with flow fields, dynamic costs, and multi-agent pathfinding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1338350445,
+            "language": "Game Maker Language",
+            "last_commit": "2026-08-22T00:28:38Z",
+            "owner": "erkan612",
+            "repo": "GMNav",
+            "stars": 1
+          }
         }
       ],
       "title": "Pathing"
@@ -3167,10 +3182,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:48:58.203Z",
+    "last_updated": "2026-08-23T01:58:50.326Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_id": 432027253,
-    "original_repository_sha": "dd520c6d6d378d6419baaf42f1d2b982e50b3686",
+    "original_repository_sha": "be34586778591e9be157933c65939298bf86bfe4",
     "enhanced_repository": "enhansome/enhansome-gamemaker",
     "enhanced_repository_description": null,
     "title": "Awesome GameMaker with stars"
