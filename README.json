@@ -1413,7 +1413,7 @@
             "last_commit": "2026-08-10T07:29:54Z",
             "owner": "JujuAdams",
             "repo": "Scribble",
-            "stars": 415
+            "stars": 416
           }
         },
         {
@@ -1428,7 +1428,7 @@
             "last_commit": "2026-08-13T09:43:21Z",
             "owner": "JujuAdams",
             "repo": "Chatterbox",
-            "stars": 174
+            "stars": 175
           }
         },
         {
@@ -1443,7 +1443,7 @@
             "last_commit": "2026-05-28T13:58:45Z",
             "owner": "FaultyFunctions",
             "repo": "Crochet",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -2103,7 +2103,7 @@
             "last_commit": "2026-08-17T00:13:11Z",
             "owner": "GlebTsereteli",
             "repo": "GMRoomLoader",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -2250,7 +2250,7 @@
             "last_commit": "2026-07-08T21:27:35Z",
             "owner": "JujuAdams",
             "repo": "Bulb",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -2934,7 +2934,7 @@
             "archived": false,
             "id": 1338350445,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-22T00:28:38Z",
+            "last_commit": "2026-08-23T12:24:16Z",
             "owner": "erkan612",
             "repo": "GMNav",
             "stars": 1
@@ -2988,7 +2988,7 @@
             "last_commit": "2026-05-26T16:51:39Z",
             "owner": "JujuAdams",
             "repo": "Clean-Shapes",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -3159,7 +3159,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3108
+            "stars": 3109
           }
         },
         {
@@ -3182,7 +3182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T01:58:50.326Z",
+    "last_updated": "2026-08-24T01:56:30.318Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_id": 432027253,
     "original_repository_sha": "be34586778591e9be157933c65939298bf86bfe4",
