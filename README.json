@@ -1278,7 +1278,7 @@
             "archived": false,
             "id": 310680327,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T13:45:28Z",
+            "last_commit": "2026-08-24T13:46:30Z",
             "owner": "bscotch",
             "repo": "ganary",
             "stars": 10
@@ -1443,7 +1443,7 @@
             "last_commit": "2026-05-28T13:58:45Z",
             "owner": "FaultyFunctions",
             "repo": "Crochet",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -3182,7 +3182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T01:56:30.318Z",
+    "last_updated": "2026-08-24T14:22:46.593Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_id": 432027253,
     "original_repository_sha": "be34586778591e9be157933c65939298bf86bfe4",
