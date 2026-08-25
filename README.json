@@ -318,7 +318,7 @@
             "archived": false,
             "id": 1134874434,
             "language": "C#",
-            "last_commit": "2026-08-18T13:56:01Z",
+            "last_commit": "2026-08-24T22:36:51Z",
             "owner": "YoYoGames",
             "repo": "GM-ExtensionGenerator",
             "stars": 25
@@ -1455,7 +1455,7 @@
             "archived": false,
             "id": 380869039,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-17T16:23:10Z",
+            "last_commit": "2026-08-24T17:28:20Z",
             "owner": "shdwcat",
             "repo": "YUI",
             "stars": 66
@@ -2937,7 +2937,7 @@
             "last_commit": "2026-08-23T12:24:16Z",
             "owner": "erkan612",
             "repo": "GMNav",
-            "stars": 1
+            "stars": 2
           }
         }
       ],
@@ -3159,7 +3159,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3109
+            "stars": 3110
           }
         },
         {
@@ -3182,7 +3182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:46.593Z",
+    "last_updated": "2026-08-25T01:51:23.195Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_id": 432027253,
     "original_repository_sha": "be34586778591e9be157933c65939298bf86bfe4",
