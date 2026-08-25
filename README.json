@@ -1065,7 +1065,7 @@
             "last_commit": "2026-07-22T14:08:07Z",
             "owner": "YellowAfterlife",
             "repo": "GMEdit",
-            "stars": 370
+            "stars": 369
           }
         },
         {
@@ -1548,7 +1548,7 @@
             "last_commit": "2026-08-10T17:22:29Z",
             "owner": "erkan612",
             "repo": "GMUI",
-            "stars": 31
+            "stars": 30
           }
         },
         {
@@ -1623,7 +1623,7 @@
             "last_commit": "2026-04-15T15:23:52Z",
             "owner": "erkan612",
             "repo": "MajorGUI_GML",
-            "stars": 10
+            "stars": 9
           }
         },
         {
@@ -2250,7 +2250,7 @@
             "last_commit": "2026-07-08T21:27:35Z",
             "owner": "JujuAdams",
             "repo": "Bulb",
-            "stars": 107
+            "stars": 106
           }
         },
         {
@@ -3182,7 +3182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:51:23.195Z",
+    "last_updated": "2026-08-25T06:18:45.795Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_id": 432027253,
     "original_repository_sha": "be34586778591e9be157933c65939298bf86bfe4",
