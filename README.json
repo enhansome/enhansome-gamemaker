@@ -1886,21 +1886,6 @@
         },
         {
           "node_type": "item",
-          "title": "AESnips",
-          "description": "A sprite playback system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 276962016,
-            "language": null,
-            "last_commit": "2025-08-04T00:45:55Z",
-            "owner": "angelwire",
-            "repo": "AESnips",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
           "title": "GM Animate",
           "description": "Sprite animation manager.",
           "children": [],
@@ -1911,6 +1896,21 @@
             "last_commit": "2026-08-18T22:49:32Z",
             "owner": "KormexGit",
             "repo": "GM-Animate",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AESnips",
+          "description": "A sprite playback system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276962016,
+            "language": null,
+            "last_commit": "2025-08-04T00:45:55Z",
+            "owner": "angelwire",
+            "repo": "AESnips",
             "stars": 9
           }
         },
@@ -2484,7 +2484,7 @@
             "archived": false,
             "id": 382895815,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-18T21:38:25Z",
+            "last_commit": "2026-08-25T17:02:31Z",
             "owner": "JujuAdams",
             "repo": "Bonk",
             "stars": 15
@@ -3156,10 +3156,10 @@
             "archived": false,
             "id": 41116605,
             "language": null,
-            "last_commit": "2026-07-07T19:10:59Z",
+            "last_commit": "2026-08-25T18:12:52Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3110
+            "stars": 3111
           }
         },
         {
@@ -3182,7 +3182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:45.795Z",
+    "last_updated": "2026-08-26T01:57:15.248Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_id": 432027253,
     "original_repository_sha": "be34586778591e9be157933c65939298bf86bfe4",
