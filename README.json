@@ -318,7 +318,7 @@
             "archived": false,
             "id": 1134874434,
             "language": "C#",
-            "last_commit": "2026-08-24T22:36:51Z",
+            "last_commit": "2026-08-27T10:41:18Z",
             "owner": "YoYoGames",
             "repo": "GM-ExtensionGenerator",
             "stars": 25
@@ -3182,9 +3182,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T09:45:00.553Z",
-    "original_repository": "bytecauldron/awesome-gamemaker",
-    "original_repository_id": 432027253,
+    "last_updated": "2026-08-27T11:41:07.718Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 432027253,
+      "language": null,
+      "last_commit": "2026-08-23T01:15:09Z",
+      "owner": "bytecauldron",
+      "repo": "awesome-gamemaker",
+      "stars": 500
+    },
     "original_repository_sha": "be34586778591e9be157933c65939298bf86bfe4",
     "enhanced_repository": "enhansome/enhansome-gamemaker",
     "enhanced_repository_description": null,
