@@ -15,7 +15,7 @@
             "last_commit": "2026-07-08T21:26:15Z",
             "owner": "JujuAdams",
             "repo": "SNAP",
-            "stars": 101
+            "stars": 100
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "archived": false,
             "id": 310680327,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T13:46:30Z",
+            "last_commit": "2026-08-26T13:47:04Z",
             "owner": "bscotch",
             "repo": "ganary",
             "stars": 10
@@ -1413,7 +1413,7 @@
             "last_commit": "2026-08-10T07:29:54Z",
             "owner": "JujuAdams",
             "repo": "Scribble",
-            "stars": 416
+            "stars": 415
           }
         },
         {
@@ -2484,7 +2484,7 @@
             "archived": false,
             "id": 382895815,
             "language": "Game Maker Language",
-            "last_commit": "2026-08-25T17:02:31Z",
+            "last_commit": "2026-08-26T13:00:27Z",
             "owner": "JujuAdams",
             "repo": "Bonk",
             "stars": 15
@@ -3159,7 +3159,7 @@
             "last_commit": "2026-08-25T18:12:52Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3111
+            "stars": 3114
           }
         },
         {
@@ -3182,7 +3182,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T01:57:15.248Z",
+    "last_updated": "2026-08-27T09:45:00.553Z",
     "original_repository": "bytecauldron/awesome-gamemaker",
     "original_repository_id": 432027253,
     "original_repository_sha": "be34586778591e9be157933c65939298bf86bfe4",
