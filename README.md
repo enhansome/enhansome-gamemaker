@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,072 | 🐛 1,992 | 🌐 C++ | 📅 2026-08-28 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,073 | 🐛 1,992 | 🌐 C++ | 📅 2026-08-28 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -528,7 +528,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,116 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,212 | 🐛 14 | 🌐 Markdown | 📅 2026-08-29.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,116 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,213 | 🐛 14 | 🌐 Markdown | 📅 2026-08-29.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
