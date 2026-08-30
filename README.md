@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,073 | 🐛 1,992 | 🌐 C++ | 📅 2026-08-28 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,093 | 🐛 1,992 | 🌐 C++ | 📅 2026-08-28 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -68,7 +68,7 @@ This includes data structures and file formats that do not fit into a more speci
 
 * [SNAP](https://github.com/JujuAdams/SNAP) ⭐ 100 | 🐛 6 | 🌐 Game Maker Language | 📅 2026-07-08 - Easy data format saving and loading. Please note that newer versions of GameMaker contain `json_parse` and `json_stringify`. However, if you are converting csv, ini, xml, etc, you may find this very useful.
 * [OKColor](https://github.com/KeeVeeGames/OKColor.gml) ⭐ 56 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-01-18 - An okay color manager for implementing OKLab/OKLCH colors.
-* [GML-OOP](https://github.com/Mtax-Development/GML-OOP) ⭐ 34 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-28 - A constructor library for operating the primary functionalities of GameMaker.
+* [GML-OOP](https://github.com/Mtax-Development/GML-OOP) ⭐ 34 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-29 - A constructor library for operating the primary functionalities of GameMaker.
 * [Destructors](https://github.com/DatZach/Destructors) ⭐ 26 | 🐛 2 | 🌐 Yacc | 📅 2022-10-24 - Allows you to use ds\_\* types such as lists and maps inside of structs.
 * [ForEach](https://github.com/KeeVeeGames/foreach.gml) ⭐ 26 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-10-13 - Adds a foreach implementation for arrays, ds\_lists, ds\_maps, ds\_stacks, ds\_queues, ds\_priorities and structs.
 * [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) ⭐ 19 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-12-03 - The most complete list class. Garbage collected, fast sort function, \[] accessor and referencing as an array.
@@ -232,7 +232,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [Bento](https://github.com/JujuAdams/Bento) ⭐ 53 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-08-17 - Cross-platform UI framework.
 * [NotificationSystem](https://github.com/babaganosch/NotificationSystem) ⭐ 44 | 🐛 0 | 🌐 Yacc | 📅 2023-12-28 - Notifications in GameMaker.
 * [Emu UI](https://github.com/DragoniteSpam/Emu) ⭐ 43 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-02-18 - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
-* [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 36 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-08-11 - Flexpanel system for modern, touch-friendly interfaces.
+* [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 36 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-08-29 - Flexpanel system for modern, touch-friendly interfaces.
 * [GMUI](https://github.com/erkan612/GMUI) ⭐ 30 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-10 - Immediate mode GameMaker UI library, tons of UI components.
 * [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) ⭐ 29 | 🐛 21 | 🌐 Game Maker Language | 📅 2021-07-20 - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
 * [Guido](https://github.com/JujuAdams/Guido) ⚠️ Archived - Simple immediate mode GUI framework.
@@ -400,7 +400,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [Warp](https://github.com/evolutionleo/Warp) ⭐ 149 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - A feature-rich framework for multiplayer games, written in GameMaker and Node.js.
 * [Patchwire-GM](https://github.com/gm-core/patchwire-gm) ⭐ 36 | 🐛 0 | 🌐 Yacc | 📅 2020-09-13 - The network library from gm-core if you want to use this implementation without the entire gm-core suite.
 * [MultiClient](https://github.com/tabularelf/MultiClient) ⭐ 31 | 🐛 1 | 🌐 Batchfile | 📅 2026-01-06 - Non-dll, multiple client launcher for network development.
-* [HTTP GML](https://github.com/Sidorakh/http.gml) ⭐ 19 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-02-09 - Receive GET requests and upload files in GML.
+* [HTTP GML](https://github.com/Sidorakh/http.gml) ⭐ 19 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-29 - Receive GET requests and upload files in GML.
 * [GMNest](https://github.com/TimVN/GMNest) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-11 - Socket.IO extension for HTML5 games.
 * [GM Networking](https://github.com/gmclan-org/gm_networking) ⭐ 2 | 🐛 0 | 🌐 Game Maker Language | 📅 2023-08-06 - Very simple network code demonstration.
 * [Boomers Networking](https://github.com/gmclan-org/gm_boomers_networking) ⭐ 2 | 🐛 0 | 🌐 Game Maker Language | 📅 2023-08-06 - Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions.
@@ -451,7 +451,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Pathing
 
 * [A-Star-Pathing](https://github.com/helloalbertdang/A-Star-Pathing) ⭐ 9 | 🐛 0 | 🌐 Game Maker Language | 📅 2021-02-06 - Another A\* pathfinding implementation.
-* [Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) ⭐ 6 | 🐛 1 | 🌐 Game Maker Language | 📅 2023-08-09 - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
+* [Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) ⭐ 6 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-08-29 - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
 * [GMNav](https://github.com/erkan612/GMNav) ⭐ 2 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-23 - High-performance, resumable navigation engine for GameMaker that handles grid, isometric, hex, and platformer maps with flow fields, dynamic costs, and multi-agent pathfinding.
 * [Aquila](https://dragonite.itch.io/aquila) - A\* Pathfinding implementation.
 * [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
@@ -528,7 +528,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,116 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,213 | 🐛 14 | 🌐 Markdown | 📅 2026-08-29.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,116 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,217 | 🐛 14 | 🌐 Markdown | 📅 2026-08-29.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -542,4 +542,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
