@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,129 | 🐛 1,994 | 🌐 C++ | 📅 2026-08-31 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,147 | 🐛 1,992 | 🌐 C++ | 📅 2026-09-01 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -94,7 +94,7 @@ This includes data structures and file formats that do not fit into a more speci
 These work on specific platform(s) and enable the games to do something that would be impossible, impractical, or inefficient to do in GML alone. Native extensions related to a specific task (e.g. input handling) can be found in those sections.
 
 * [GMD3D11](https://github.com/blueburncz/GMD3D11) ⭐ 33 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-01-17 - A DLL for interfacing with Windows Direct3D.
-* [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) ⭐ 26 | 🐛 1 | 🌐 C# | 📅 2026-08-27 - Official, schema-driven code generator for native extensions.
+* [GM-ExtensionGenerator](https://github.com/YoYoGames/GM-ExtensionGenerator) ⭐ 26 | 🐛 1 | 🌐 C# | 📅 2026-09-01 - Official, schema-driven code generator for native extensions.
 * [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2024-06-15 - A template project for building DLLs for GameMaker.
 * [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2025-08-28 - A way to use JS extensions in GX/WebAssembly games.
 * [gameframe](https://github.com/YAL-GameMaker/gameframe) ⭐ 15 | 🐛 0 | 🌐 Haxe | 📅 2024-09-15 - Custom window caption and border for Windows.
@@ -182,11 +182,11 @@ Things that work with project files or GameMaker itself rather than being someth
 * [GMEdit](https://github.com/YellowAfterlife/GMEdit) ⭐ 369 | 🐛 24 | 🌐 JavaScript | 📅 2026-07-22 - Code editor to use in conjunction with GameMaker.
 * [Rubber](https://github.com/GameMakerDiscord/Rubber) ⭐ 33 | 🐛 5 | 🌐 TypeScript | 📅 2021-02-20 - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
 * [GMLC](https://github.com/tinkerer-red/GMLC) ⭐ 18 | 🐛 46 | 🌐 Game Maker Language | 📅 2026-06-11 - Runtime compiler and interpreter to load, compile, and execute GML code at runtime.
-* [vim-GML](https://github.com/JafarDakhan/vim-gml) ⭐ 13 | 🐛 0 | 🌐 Vim Script | 📅 2022-10-04 - High quality Vim syntax highlighting for GameMaker.
 * [GMLVM](https://github.com/erkan612/GMLVM) ⭐ 5 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-05-21 - An easy to use complete GML interpreter to execute GML at runtime.
 * [Stitch for VSCode](https://marketplace.visualstudio.com/items?itemName=bscotch.bscotch-stitch-vscode) - Edit GameMaker projects in VSCode.
 * [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes `.yyp` files for you.
 * [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
+* [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
 * [sfGML](https://yellowafterlife.itch.io/gamemaker-haxe) - Generate GML code from strongly-typed Haxe.
 * [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) - Makes games made in new GM versions run on Windows 7.
 * [RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) - Organizes audio files compiled games into subdirectories. 💸
@@ -311,7 +311,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Levels
 
-* [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) ⭐ 128 | 🐛 7 | 🌐 Game Maker Language | 📅 2026-08-17 - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
+* [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) ⭐ 128 | 🐛 6 | 🌐 Game Maker Language | 📅 2026-08-17 - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
 * [LDtkParser](https://github.com/evolutionleo/LDtkParser) ⭐ 63 | 🐛 3 | 🌐 Game Maker Language | 📅 2025-08-14 - Advanced LDtk Importer.
 * [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) ⭐ 57 | 🐛 2 | 🌐 Game Maker Language | 📅 2018-03-03 - A random level generation example (similar to Nuclear Throne) using GameMaker.
 * [Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) ⭐ 31 | 🐛 2 | 🌐 Game Maker Language | 📅 2023-04-17 - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
@@ -412,7 +412,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Integrations
 
-* [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) ⭐ 90 | 🐛 2 | 🌐 C++ | 📅 2023-07-31 - Various expansions to Steamworks SDK support in GameMaker: Studio.
+* [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) ⭐ 90 | 🐛 3 | 🌐 C++ | 📅 2023-07-31 - Various expansions to Steamworks SDK support in GameMaker: Studio.
 * [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) ⭐ 69 | 🐛 7 | 🌐 Game Maker Language | 📅 2022-01-03 - Twitch integration.
 * [GMS2\_RPC](https://github.com/Mtax-Development/GMS2_RPC) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2025-10-07 - Another Discord integration.
 * [GMHook](https://github.com/Kruger0/GMHook) ⭐ 11 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-04 - We really like Discord integration.
@@ -528,7 +528,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,117 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,227 | 🐛 15 | 🌐 Markdown | 📅 2026-08-29.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,118 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,235 | 🐛 14 | 🌐 Markdown | 📅 2026-09-01.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -542,4 +542,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
