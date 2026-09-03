@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,147 | 🐛 1,992 | 🌐 C++ | 📅 2026-09-01 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,170 | 🐛 1,992 | 🌐 C++ | 📅 2026-09-02 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -229,7 +229,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 121 | 🐛 38 | 🌐 Svelte | 📅 2026-05-28 - An interactive dialogue editor for writers and programmers.
 * [YUI](https://github.com/shdwcat/YUI) ⭐ 65 | 🐛 40 | 🌐 Game Maker Language | 📅 2026-08-24 - A UI system with live reloading, template system, data binding, and a drag and drop feature.
 * [Textboxy](https://github.com/glitchroy/textboxy) ⭐ 64 | 🐛 9 | 🌐 Game Maker Language | 📅 2023-03-05 - Simple textboxes.
-* [Bento](https://github.com/JujuAdams/Bento) ⭐ 53 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-08-17 - Cross-platform UI framework.
+* [Bento](https://github.com/JujuAdams/Bento) ⭐ 53 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-09-02 - Cross-platform UI framework.
 * [NotificationSystem](https://github.com/babaganosch/NotificationSystem) ⭐ 44 | 🐛 0 | 🌐 Yacc | 📅 2023-12-28 - Notifications in GameMaker.
 * [Emu UI](https://github.com/DragoniteSpam/Emu) ⭐ 43 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-02-18 - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 * [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 36 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-08-29 - Flexpanel system for modern, touch-friendly interfaces.
@@ -412,7 +412,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Integrations
 
-* [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) ⭐ 90 | 🐛 3 | 🌐 C++ | 📅 2023-07-31 - Various expansions to Steamworks SDK support in GameMaker: Studio.
+* [Steamworks.gml](https://github.com/YAL-GameMaker/steamworks.gml) ⭐ 90 | 🐛 1 | 🌐 C++ | 📅 2026-09-02 - Various expansions to Steamworks SDK support in GameMaker: Studio.
 * [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) ⭐ 69 | 🐛 7 | 🌐 Game Maker Language | 📅 2022-01-03 - Twitch integration.
 * [GMS2\_RPC](https://github.com/Mtax-Development/GMS2_RPC) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2025-10-07 - Another Discord integration.
 * [GMHook](https://github.com/Kruger0/GMHook) ⭐ 11 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-04 - We really like Discord integration.
@@ -528,7 +528,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,118 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,235 | 🐛 14 | 🌐 Markdown | 📅 2026-09-01.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,120 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,241 | 🐛 14 | 🌐 Markdown | 📅 2026-09-01.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -536,10 +536,10 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Contributing
 
-Have something awesome to share? Check out the [Contributing Guidelines](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md) ⭐ 501 | 🐛 1 | 📅 2026-08-23.
+Have something awesome to share? Check out the [Contributing Guidelines](https://github.com/bytecauldron/awesome-gamemaker/blob/main/CONTRIBUTING.md) ⭐ 502 | 🐛 1 | 📅 2026-08-23.
 
 ![Keybindings](https://github.com/bytecauldron/awesome-gamemaker/raw/main/images/keybindings.png)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

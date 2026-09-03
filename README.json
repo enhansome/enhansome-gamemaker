@@ -2384,7 +2384,7 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-08-17T14:39:31Z",
+            "last_commit": "2026-09-02T20:30:47Z",
             "open_issues": 2,
             "owner": "JujuAdams",
             "repo": "Bento",
@@ -4266,8 +4266,8 @@
             "id": 55847823,
             "language": "C++",
             "license": null,
-            "last_commit": "2023-07-31T11:24:38Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-02T14:02:09Z",
+            "open_issues": 1,
             "owner": "YAL-GameMaker",
             "repo": "steamworks.gml",
             "stars": 90,
@@ -5113,7 +5113,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3118,
+            "stars": 3120,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5150,7 +5150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T04:30:44.192Z",
+    "last_updated": "2026-09-03T04:21:14.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5162,7 +5162,7 @@
       "open_issues": 1,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 501,
+      "stars": 502,
       "topics": [
         "awesome",
         "awesome-list",
