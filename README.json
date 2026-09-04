@@ -89,7 +89,7 @@
             "id": 268172466,
             "language": "Game Maker Language",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T13:04:32Z",
+            "last_commit": "2026-09-03T08:51:28Z",
             "open_issues": 0,
             "owner": "Mtax-Development",
             "repo": "GML-OOP",
@@ -1291,7 +1291,7 @@
             "language": "Game Maker Language",
             "license": "MIT",
             "last_commit": "2026-08-10T02:39:01Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "GlebTsereteli",
             "repo": "Figgy",
             "stars": 27,
@@ -1532,7 +1532,7 @@
             "language": "Game Maker Language",
             "license": "MIT",
             "last_commit": "2026-07-03T19:16:50Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "sdelaughter",
             "repo": "RunGML",
             "stars": 10,
@@ -2050,7 +2050,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-31T13:35:59Z",
+            "last_commit": "2026-09-03T13:36:03Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -3698,7 +3698,7 @@
             "open_issues": 0,
             "owner": "XorDev",
             "repo": "Bokeh",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -4748,7 +4748,7 @@
             "id": 333001141,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-08-20T02:53:35Z",
+            "last_commit": "2026-09-03T09:09:21Z",
             "open_issues": 0,
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
@@ -4920,40 +4920,6 @@
         },
         {
           "node_type": "item",
-          "title": "GameMaker Repo Badges",
-          "description": "Fancy badges to add to your README files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "GitHub-ReadMe-Bagdes displaying \"Made With game Maker\" with the Game Maker Icon, based on shields.io badges, in markdown ",
-            "homepage": null,
-            "id": 155770462,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-06-13T12:47:33Z",
-            "open_issues": 0,
-            "owner": "matthiaszarzecki",
-            "repo": "MadeWithGameMakerStudioBadges",
-            "stars": 14,
-            "topics": [
-              "badge",
-              "badges",
-              "for-the-badge",
-              "game-maker",
-              "game-maker-studio",
-              "game-maker-studio-2",
-              "gamemaker",
-              "gamemaker-studio",
-              "gamemaker-studio-2",
-              "markdown",
-              "markdown-cheatsheet",
-              "readme-badges"
-            ]
-          },
-          "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
           "title": "Tome",
           "description": "Automatically generate documentation sites from GameMaker projects.",
           "children": [],
@@ -5003,6 +4969,40 @@
               "gamemaker-studio-2-3",
               "gml",
               "gml-raptor"
+            ]
+          },
+          "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GameMaker Repo Badges",
+          "description": "Fancy badges to add to your README files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GitHub-ReadMe-Bagdes displaying \"Made With game Maker\" with the Game Maker Icon, based on shields.io badges, in markdown ",
+            "homepage": null,
+            "id": 155770462,
+            "language": null,
+            "license": null,
+            "last_commit": "2025-06-13T12:47:33Z",
+            "open_issues": 0,
+            "owner": "matthiaszarzecki",
+            "repo": "MadeWithGameMakerStudioBadges",
+            "stars": 13,
+            "topics": [
+              "badge",
+              "badges",
+              "for-the-badge",
+              "game-maker",
+              "game-maker-studio",
+              "game-maker-studio-2",
+              "gamemaker",
+              "gamemaker-studio",
+              "gamemaker-studio-2",
+              "markdown",
+              "markdown-cheatsheet",
+              "readme-badges"
             ]
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -5113,7 +5113,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3120,
+            "stars": 3122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5150,7 +5150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:21:14.887Z",
+    "last_updated": "2026-09-04T04:29:49.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5159,7 +5159,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-23T01:15:09Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
       "stars": 502,
