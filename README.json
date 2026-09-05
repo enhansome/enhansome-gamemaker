@@ -89,7 +89,7 @@
             "id": 268172466,
             "language": "Game Maker Language",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T08:51:28Z",
+            "last_commit": "2026-09-04T17:21:52Z",
             "open_issues": 0,
             "owner": "Mtax-Development",
             "repo": "GML-OOP",
@@ -2050,7 +2050,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-03T13:36:03Z",
+            "last_commit": "2026-09-04T13:35:24Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -2388,7 +2388,7 @@
             "open_issues": 2,
             "owner": "JujuAdams",
             "repo": "Bento",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "gamemaker",
               "gamemaker-studio-2",
@@ -5113,7 +5113,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3122,
+            "stars": 3121,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5150,7 +5150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T04:29:49.447Z",
+    "last_updated": "2026-09-05T04:24:44.794Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5162,7 +5162,7 @@
       "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 502,
+      "stars": 503,
       "topics": [
         "awesome",
         "awesome-list",
