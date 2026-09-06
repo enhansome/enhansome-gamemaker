@@ -89,7 +89,7 @@
             "id": 268172466,
             "language": "Game Maker Language",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T17:21:52Z",
+            "last_commit": "2026-09-05T17:05:55Z",
             "open_issues": 0,
             "owner": "Mtax-Development",
             "repo": "GML-OOP",
@@ -1197,7 +1197,7 @@
             "open_issues": 9,
             "owner": "DragoniteSpam",
             "repo": "DDDEditorGMS2",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "game-editor",
               "gamemaker",
@@ -1299,8 +1299,8 @@
               "balancing",
               "configuration",
               "dear-imgui",
-              "gamedev",
               "gamemaker",
+              "gml",
               "imgui",
               "open-source",
               "tuning"
@@ -1962,8 +1962,8 @@
               "dear-imgui",
               "debug",
               "debugging",
-              "gamedev",
               "gamemaker",
+              "gml",
               "imgui",
               "open-source"
             ]
@@ -2384,7 +2384,7 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-02T20:30:47Z",
+            "last_commit": "2026-09-05T19:18:37Z",
             "open_issues": 2,
             "owner": "JujuAdams",
             "repo": "Bento",
@@ -2906,8 +2906,8 @@
             "topics": [
               "box2d",
               "destruction",
-              "gamedev",
               "gamemaker",
+              "gml",
               "open-source",
               "physics"
             ]
@@ -3381,9 +3381,10 @@
             "open_issues": 6,
             "owner": "GlebTsereteli",
             "repo": "GMRoomLoader",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "gamemaker",
+              "gml",
               "level-design",
               "prefabs",
               "procedural-generation"
@@ -5113,7 +5114,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3121,
+            "stars": 3123,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5150,7 +5151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:24:44.794Z",
+    "last_updated": "2026-09-06T04:36:12.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
