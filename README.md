@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,244 | 🐛 1,995 | 🌐 C++ | 📅 2026-09-04 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,273 | 🐛 1,995 | 🌐 C++ | 📅 2026-09-04 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -224,12 +224,12 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## User Interface
 
-* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 415 | 🐛 28 | 🌐 Game Maker Language | 📅 2026-08-10 - Efficient multi-effects text renderer.
+* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 415 | 🐛 29 | 🌐 Game Maker Language | 📅 2026-09-06 - Efficient multi-effects text renderer.
 * [Chatterbox](https://github.com/JujuAdams/chatterbox) ⭐ 175 | 🐛 10 | 🌐 Game Maker Language | 📅 2026-08-13 - Narrative scripting tool.
 * [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 121 | 🐛 38 | 🌐 Svelte | 📅 2026-05-28 - An interactive dialogue editor for writers and programmers.
 * [YUI](https://github.com/shdwcat/YUI) ⭐ 65 | 🐛 40 | 🌐 Game Maker Language | 📅 2026-08-24 - A UI system with live reloading, template system, data binding, and a drag and drop feature.
 * [Textboxy](https://github.com/glitchroy/textboxy) ⭐ 64 | 🐛 9 | 🌐 Game Maker Language | 📅 2023-03-05 - Simple textboxes.
-* [Bento](https://github.com/JujuAdams/Bento) ⭐ 54 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-09-05 - Cross-platform UI framework.
+* [Bento](https://github.com/JujuAdams/Bento) ⭐ 54 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-09-06 - Cross-platform UI framework.
 * [NotificationSystem](https://github.com/babaganosch/NotificationSystem) ⭐ 44 | 🐛 0 | 🌐 Yacc | 📅 2023-12-28 - Notifications in GameMaker.
 * [Emu UI](https://github.com/DragoniteSpam/Emu) ⭐ 43 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-02-18 - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 * [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 36 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-08-29 - Flexpanel system for modern, touch-friendly interfaces.
@@ -311,7 +311,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Levels
 
-* [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) ⭐ 129 | 🐛 6 | 🌐 Game Maker Language | 📅 2026-08-17 - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
+* [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) ⭐ 130 | 🐛 6 | 🌐 Game Maker Language | 📅 2026-08-17 - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
 * [LDtkParser](https://github.com/evolutionleo/LDtkParser) ⭐ 63 | 🐛 3 | 🌐 Game Maker Language | 📅 2025-08-14 - Advanced LDtk Importer.
 * [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) ⭐ 57 | 🐛 2 | 🌐 Game Maker Language | 📅 2018-03-03 - A random level generation example (similar to Nuclear Throne) using GameMaker.
 * [Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) ⭐ 31 | 🐛 2 | 🌐 Game Maker Language | 📅 2023-04-17 - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
@@ -440,7 +440,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## State Machines
 
-* [SnowState](https://github.com/sohomsahaun/SnowState) ⭐ 178 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-09-01 - Robust finite state machine.
+* [SnowState](https://github.com/sohomsahaun/SnowState) ⭐ 178 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-09-06 - Robust finite state machine.
 * [BehaviorTree](https://github.com/Gizmo199/BehaviorTree) ⭐ 14 | 🐛 0 | 🌐 Yacc | 📅 2023-12-18 - A simple behavior tree system.
 * [Pinocchio](https://github.com/JujuAdams/Pinocchio) ⭐ 10 | 🐛 0 | 🌐 Yacc | 📅 2024-03-04 - State-based animation system.
 * [FastSM](https://github.com/JulianDicken/FastSM) ⚠️ Archived - Lightweight alternative to SnowState.
@@ -452,7 +452,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 * [A-Star-Pathing](https://github.com/helloalbertdang/A-Star-Pathing) ⭐ 9 | 🐛 0 | 🌐 Game Maker Language | 📅 2021-02-06 - Another A\* pathfinding implementation.
 * [Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) ⭐ 6 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-08-29 - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
-* [GMNav](https://github.com/erkan612/GMNav) ⭐ 2 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-31 - High-performance, resumable navigation engine for GameMaker that handles grid, isometric, hex, and platformer maps with flow fields, dynamic costs, and multi-agent pathfinding.
+* [GMNav](https://github.com/erkan612/GMNav) ⭐ 2 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-06 - High-performance, resumable navigation engine for GameMaker that handles grid, isometric, hex, and platformer maps with flow fields, dynamic costs, and multi-agent pathfinding.
 * [Aquila](https://dragonite.itch.io/aquila) - A\* Pathfinding implementation.
 * [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
 * [PathPlus](https://delfos1.itch.io/pathplus-for-gamemaker/devlog/1115089/pathplus-220-follower-and-spriter) - Enhance GameMaker Paths with CatmullRom and Bezier Interpolations.
@@ -528,7 +528,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,123 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,254 | 🐛 14 | 🌐 Markdown | 📅 2026-09-01.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,124 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,262 | 🐛 14 | 🌐 Markdown | 📅 2026-09-01.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -542,4 +542,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
