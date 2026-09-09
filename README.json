@@ -1727,7 +1727,7 @@
             "open_issues": 24,
             "owner": "YellowAfterlife",
             "repo": "GMEdit",
-            "stars": 369,
+            "stars": 368,
             "topics": [
               "gamemaker",
               "gamemaker-studio",
@@ -1756,7 +1756,7 @@
             "open_issues": 5,
             "owner": "GameMakerDiscord",
             "repo": "Rubber",
-            "stars": 33,
+            "stars": 32,
             "topics": [
               "gamemaker",
               "gms2",
@@ -2488,7 +2488,7 @@
             "id": 1068806930,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-08-10T17:22:29Z",
+            "last_commit": "2026-09-08T18:54:27Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMUI",
@@ -2978,10 +2978,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-06-15T15:03:53Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "bscotch",
             "repo": "stitch",
-            "stars": 158,
+            "stars": 157,
             "topics": [
               "audio",
               "game-development",
@@ -3163,7 +3163,7 @@
             "id": 719185223,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-12T13:08:59Z",
+            "last_commit": "2026-09-08T23:44:22Z",
             "open_issues": 2,
             "owner": "YoYoGames",
             "repo": "GMEXT-FMOD",
@@ -4084,7 +4084,7 @@
             "open_issues": 0,
             "owner": "evolutionleo",
             "repo": "Warp",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "framework",
               "gamemaker",
@@ -4271,7 +4271,7 @@
             "open_issues": 1,
             "owner": "YAL-GameMaker",
             "repo": "steamworks.gml",
-            "stars": 90,
+            "stars": 89,
             "topics": [
               "gamemaker",
               "sdk-wrapper",
@@ -4553,7 +4553,7 @@
             "open_issues": 4,
             "owner": "sohomsahaun",
             "repo": "SnowState",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "finite-state-machine",
               "gamemaker-studio-2",
@@ -4722,7 +4722,7 @@
             "id": 1338350445,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-07T21:08:33Z",
+            "last_commit": "2026-09-09T00:02:29Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
@@ -4780,7 +4780,7 @@
             "open_issues": 6,
             "owner": "dracula",
             "repo": "gamemaker-studio",
-            "stars": 92,
+            "stars": 91,
             "topics": [
               "dark-theme",
               "gamemaker-studio",
@@ -5114,7 +5114,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3125,
+            "stars": 3126,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5151,7 +5151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T04:32:40.606Z",
+    "last_updated": "2026-09-09T04:39:29.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
