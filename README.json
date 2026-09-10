@@ -1727,7 +1727,7 @@
             "open_issues": 24,
             "owner": "YellowAfterlife",
             "repo": "GMEdit",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "gamemaker",
               "gamemaker-studio",
@@ -2050,7 +2050,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-04T13:35:24Z",
+            "last_commit": "2026-09-09T13:36:32Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -2256,7 +2256,7 @@
             "open_issues": 30,
             "owner": "JujuAdams",
             "repo": "Scribble",
-            "stars": 415,
+            "stars": 417,
             "topics": [
               "dialogue",
               "gamemaker",
@@ -2315,7 +2315,7 @@
             "open_issues": 38,
             "owner": "FaultyFunctions",
             "repo": "Crochet",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "game-development",
               "gamemaker",
@@ -2323,27 +2323,6 @@
               "node-editor",
               "writing"
             ]
-          },
-          "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
-          "title": "YUI",
-          "description": "A UI system with live reloading, template system, data binding, and a drag and drop feature.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "YUI - A UI system for GMS2",
-            "homepage": null,
-            "id": 380869039,
-            "language": "Game Maker Language",
-            "license": "MIT",
-            "last_commit": "2026-08-24T17:28:20Z",
-            "open_issues": 40,
-            "owner": "shdwcat",
-            "repo": "YUI",
-            "stars": 65,
-            "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
         },
@@ -2374,6 +2353,27 @@
         },
         {
           "node_type": "item",
+          "title": "YUI",
+          "description": "A UI system with live reloading, template system, data binding, and a drag and drop feature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "YUI - A UI system for GMS2",
+            "homepage": null,
+            "id": 380869039,
+            "language": "Game Maker Language",
+            "license": "MIT",
+            "last_commit": "2026-08-24T17:28:20Z",
+            "open_issues": 40,
+            "owner": "shdwcat",
+            "repo": "YUI",
+            "stars": 64,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
           "title": "Bento",
           "description": "Cross-platform UI framework.",
           "children": [],
@@ -2384,7 +2384,7 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-07T08:42:55Z",
+            "last_commit": "2026-09-09T18:29:51Z",
             "open_issues": 1,
             "owner": "JujuAdams",
             "repo": "Bento",
@@ -3163,7 +3163,7 @@
             "id": 719185223,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T23:44:22Z",
+            "last_commit": "2026-09-09T23:53:08Z",
             "open_issues": 2,
             "owner": "YoYoGames",
             "repo": "GMEXT-FMOD",
@@ -3985,7 +3985,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-08-27T14:54:25Z",
+            "last_commit": "2026-09-09T13:21:28Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -4553,7 +4553,7 @@
             "open_issues": 4,
             "owner": "sohomsahaun",
             "repo": "SnowState",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "finite-state-machine",
               "gamemaker-studio-2",
@@ -4722,7 +4722,7 @@
             "id": 1338350445,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-09T00:02:29Z",
+            "last_commit": "2026-09-09T23:50:31Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
@@ -5114,7 +5114,7 @@
             "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3126,
+            "stars": 3130,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5151,7 +5151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T04:39:29.560Z",
+    "last_updated": "2026-09-10T04:39:54.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5163,7 +5163,7 @@
       "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 504,
+      "stars": 505,
       "topics": [
         "awesome",
         "awesome-list",
