@@ -569,7 +569,7 @@
             "open_issues": 1,
             "owner": "YoYoGames",
             "repo": "GM-ExtensionGenerator",
-            "stars": 26,
+            "stars": 27,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -1953,7 +1953,7 @@
             "id": 1089104352,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-08-08T18:51:38Z",
+            "last_commit": "2026-09-11T04:32:09Z",
             "open_issues": 8,
             "owner": "GlebTsereteli",
             "repo": "Lookout",
@@ -3163,7 +3163,7 @@
             "id": 719185223,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T23:53:08Z",
+            "last_commit": "2026-09-10T23:14:08Z",
             "open_issues": 2,
             "owner": "YoYoGames",
             "repo": "GMEXT-FMOD",
@@ -4168,7 +4168,7 @@
             "open_issues": 0,
             "owner": "Sidorakh",
             "repo": "http.gml",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "gamemaker",
               "gamemaker-studio-2",
@@ -4722,7 +4722,7 @@
             "id": 1338350445,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-09T23:50:31Z",
+            "last_commit": "2026-09-10T21:41:03Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
@@ -4753,7 +4753,7 @@
             "open_issues": 0,
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "engine",
               "framework",
@@ -5151,7 +5151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T04:39:54.268Z",
+    "last_updated": "2026-09-11T04:37:26.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
