@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,371 | 🐛 1,998 | 🌐 C++ | 📅 2026-09-10 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,386 | 🐛 2,002 | 🌐 C++ | 📅 2026-09-10 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -141,7 +141,7 @@ Custom timers, timelines, and task scheduling.
 
 ## Utilities
 
-* [Catspeak](https://github.com/katsaii/catspeak-lang) ⭐ 133 | 🐛 9 | 🌐 Python | 📅 2026-08-19 - Cross-platform programming language for modding support.
+* [Catspeak](https://github.com/katsaii/catspeak-lang) ⭐ 134 | 🐛 9 | 🌐 Python | 📅 2026-08-19 - Cross-platform programming language for modding support.
 * [handytools](https://github.com/JujuAdams/handytools/) ⚠️ Archived - A collection of Juju's libraries in one convenient project.
 * [Iota](https://github.com/JujuAdams/iota) ⭐ 48 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-08 - Lightweight timestep library.
 * [SSave](https://github.com/stoozey/SSave) ⭐ 44 | 🐛 11 | 🌐 Game Maker Language | 📅 2025-10-13 - Simple file saving system.
@@ -202,7 +202,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [Olympus](https://github.com/bscotch/olympus) ⭐ 21 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-05-13 - Testing Framework.
 * [Inspectron](https://github.com/shdwcat/Inspectron) ⭐ 16 | 🐛 1 | 🌐 Game Maker Language | 📅 2024-06-19 - A fluent API for easily creating GameMaker debug views.
 * [Duck](https://github.com/imlazyeye/duck) ⭐ 14 | 🐛 0 | 🌐 Rust | 📅 2025-06-05 - A fast GML analyzer to enforce code styling and detect errors.
-* [Ganary](https://github.com/bscotch/ganary) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-09 - Uses Olympus to perform regression tests.
+* [Ganary](https://github.com/bscotch/ganary) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-11 - Uses Olympus to perform regression tests.
 * [Meta](https://github.com/nommiin/meta) ⭐ 8 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-08-15 - Runtime asset inspector.
 * [gm-verrific](https://github.com/Alphish/gm-verrific) ⭐ 5 | 🐛 8 | 🌐 Game Maker Language | 📅 2025-10-12 - The ultimate automated testing framework.
 * [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) ⭐ 0 | 🐛 1 | 🌐 C# | 📅 2026-07-22 - A bit less opinionated code formatter for GML, with more options and functionality.
@@ -278,7 +278,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Sprites
 
-* [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) ⭐ 157 | 🐛 34 | 🌐 TypeScript | 📅 2026-06-15 - Utilities for creating art asset pipelines.
+* [SpriteSource](https://github.com/bscotch/stitch/tree/develop/packages/sprite-source) ⭐ 158 | 🐛 35 | 🌐 TypeScript | 📅 2026-06-15 - Utilities for creating art asset pipelines.
 * [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) ⭐ 36 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-12-31 - Pixel art upscaling shader for awkward resolutions for GameMaker.
 * [Collage](https://github.com/tabularelf/Collage) ⭐ 29 | 🐛 10 | 🌐 Game Maker Language | 📅 2026-07-26 - Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.
 * [GM Animate](https://github.com/KormexGit/GM-Animate) ⭐ 10 | 🐛 3 | 🌐 Game Maker Language | 📅 2026-08-18 - Sprite animation manager.
@@ -366,7 +366,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## 3D
 
-* [BBMOD](https://github.com/blueburn-cz/BBMOD) ⭐ 119 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-08-04 - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
+* [BBMOD](https://github.com/blueburn-cz/BBMOD) ⭐ 119 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-09-11 - 3D Rendering Solution. Comes with several modules to import obj, 3D camera setup, integration with ColMesh, and more.
 * [3D-2D](https://github.com/YoYoGames/3D-2D) ⭐ 48 | 🐛 2 | 🌐 Game Maker Language | 📅 2023-03-27 - Official tool to turn 3D models into 2D sprites.
 * [dotobj](https://github.com/JujuAdams/dotobj) ⭐ 47 | 🐛 3 | 🌐 Game Maker Language | 📅 2025-10-12 - Lightweight .obj/.mtl 3D model loader written in native GML.
 * [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2026-08-21 - Import/Export tools to load vertex buffer data out of Blender and into GMS.
@@ -436,7 +436,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 * [Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 * [Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-* [DuplicateSequence](https://github.com/KeeVeeGames/DuplicateSequence.gml) ⭐ 15 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-09-06 - Make a deep copy of sequence assets/structs for editing at runtime.
+* [DuplicateSequence](https://github.com/KeeVeeGames/DuplicateSequence.gml) ⭐ 15 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-11 - Make a deep copy of sequence assets/structs for editing at runtime.
 
 ## State Machines
 
@@ -528,7 +528,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,130 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,274 | 🐛 14 | 🌐 Markdown | 📅 2026-09-01.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,130 | 🐛 16 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,284 | 🐛 14 | 🌐 Markdown | 📅 2026-09-01.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -542,4 +542,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
