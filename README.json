@@ -2384,7 +2384,7 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-09T18:29:51Z",
+            "last_commit": "2026-09-12T20:52:21Z",
             "open_issues": 1,
             "owner": "JujuAdams",
             "repo": "Bento",
@@ -3381,7 +3381,7 @@
             "open_issues": 6,
             "owner": "GlebTsereteli",
             "repo": "GMRoomLoader",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "gamemaker",
               "gml",
@@ -3877,7 +3877,7 @@
             "id": 240704300,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-11T14:43:26Z",
+            "last_commit": "2026-09-12T21:37:27Z",
             "open_issues": 5,
             "owner": "blueburncz",
             "repo": "BBMOD",
@@ -5111,10 +5111,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3130,
+            "stars": 3131,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5151,7 +5151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T04:31:53.285Z",
+    "last_updated": "2026-09-13T04:45:08.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5163,7 +5163,7 @@
       "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 505,
+      "stars": 504,
       "topics": [
         "awesome",
         "awesome-list",
