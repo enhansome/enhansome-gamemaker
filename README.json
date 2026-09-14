@@ -1067,7 +1067,7 @@
             "open_issues": 9,
             "owner": "katsaii",
             "repo": "catspeak-lang",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "compiler",
               "domain-specific-language",
@@ -1851,7 +1851,7 @@
             "open_issues": 8,
             "owner": "bfrymire",
             "repo": "crispy",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "gamemaker",
               "gamemaker-lts",
@@ -2028,7 +2028,7 @@
             "open_issues": 0,
             "owner": "imlazyeye",
             "repo": "duck",
-            "stars": 14,
+            "stars": 13,
             "topics": [
               "analyzer",
               "gamemaker",
@@ -2315,7 +2315,7 @@
             "open_issues": 38,
             "owner": "FaultyFunctions",
             "repo": "Crochet",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "game-development",
               "gamemaker",
@@ -2384,7 +2384,7 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-12T20:52:21Z",
+            "last_commit": "2026-09-13T20:45:01Z",
             "open_issues": 1,
             "owner": "JujuAdams",
             "repo": "Bento",
@@ -2467,7 +2467,7 @@
             "id": 499335934,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-08-29T20:15:40Z",
+            "last_commit": "2026-09-13T23:27:54Z",
             "open_issues": 2,
             "owner": "Limekys",
             "repo": "LimeUI",
@@ -3877,7 +3877,7 @@
             "id": 240704300,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-12T21:37:27Z",
+            "last_commit": "2026-09-13T21:52:10Z",
             "open_issues": 5,
             "owner": "blueburncz",
             "repo": "BBMOD",
@@ -5151,7 +5151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T04:45:08.393Z",
+    "last_updated": "2026-09-14T04:53:05.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
