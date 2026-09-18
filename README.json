@@ -565,7 +565,7 @@
             "id": 1134874434,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T15:11:41Z",
+            "last_commit": "2026-09-17T18:02:23Z",
             "open_issues": 1,
             "owner": "YoYoGames",
             "repo": "GM-ExtensionGenerator",
@@ -994,7 +994,7 @@
             "id": 497422457,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-15T02:11:01Z",
+            "last_commit": "2026-09-18T03:41:41Z",
             "open_issues": 0,
             "owner": "tabularelf",
             "repo": "SimThreads",
@@ -3381,7 +3381,7 @@
             "open_issues": 6,
             "owner": "GlebTsereteli",
             "repo": "GMRoomLoader",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "gamemaker",
               "gml",
@@ -3877,7 +3877,7 @@
             "id": 240704300,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-16T22:01:11Z",
+            "last_commit": "2026-09-17T20:45:40Z",
             "open_issues": 5,
             "owner": "blueburncz",
             "repo": "BBMOD",
@@ -4749,11 +4749,11 @@
             "id": 333001141,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-09-16T13:24:43Z",
+            "last_commit": "2026-09-18T04:14:36Z",
             "open_issues": 0,
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "engine",
               "framework",
@@ -5151,7 +5151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T04:50:22.765Z",
+    "last_updated": "2026-09-18T04:41:03.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
