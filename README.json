@@ -565,7 +565,7 @@
             "id": 1134874434,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T16:28:41Z",
+            "last_commit": "2026-09-19T22:43:09Z",
             "open_issues": 1,
             "owner": "YoYoGames",
             "repo": "GM-ExtensionGenerator",
@@ -998,7 +998,7 @@
             "open_issues": 0,
             "owner": "tabularelf",
             "repo": "SimThreads",
-            "stars": 15,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -2311,7 +2311,7 @@
             "id": 317100613,
             "language": "Svelte",
             "license": "MIT",
-            "last_commit": "2026-05-28T13:58:45Z",
+            "last_commit": "2026-09-19T07:59:16Z",
             "open_issues": 38,
             "owner": "FaultyFunctions",
             "repo": "Crochet",
@@ -2363,7 +2363,7 @@
             "id": 380869039,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-08-24T17:28:20Z",
+            "last_commit": "2026-09-19T19:34:59Z",
             "open_issues": 40,
             "owner": "shdwcat",
             "repo": "YUI",
@@ -2384,7 +2384,7 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-16T16:26:12Z",
+            "last_commit": "2026-09-19T20:13:53Z",
             "open_issues": 1,
             "owner": "JujuAdams",
             "repo": "Bento",
@@ -3669,7 +3669,7 @@
             "open_issues": 0,
             "owner": "Grisgram",
             "repo": "gml-outline-shader-drawer",
-            "stars": 26,
+            "stars": 25,
             "topics": [
               "gamemaker",
               "gamemaker-language",
@@ -3985,7 +3985,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-16T11:02:36Z",
+            "last_commit": "2026-09-19T13:26:17Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -4084,7 +4084,7 @@
             "open_issues": 0,
             "owner": "evolutionleo",
             "repo": "Warp",
-            "stars": 150,
+            "stars": 149,
             "topics": [
               "framework",
               "gamemaker",
@@ -4722,7 +4722,7 @@
             "id": 1338350445,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-18T17:36:08Z",
+            "last_commit": "2026-09-19T22:41:30Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
@@ -4947,35 +4947,6 @@
         },
         {
           "node_type": "item",
-          "title": "Animated Flag",
-          "description": "Vertex-animated flag.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "for GameMaker 2.3+",
-            "homepage": null,
-            "id": 491379087,
-            "language": "Game Maker Language",
-            "license": "MIT",
-            "last_commit": "2024-05-30T08:55:18Z",
-            "open_issues": 0,
-            "owner": "Grisgram",
-            "repo": "gml-animated-flag",
-            "stars": 13,
-            "topics": [
-              "animation",
-              "game-development",
-              "gamemaker",
-              "gamemaker-language",
-              "gamemaker-studio-2-3",
-              "gml",
-              "gml-raptor"
-            ]
-          },
-          "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
           "title": "GameMaker Repo Badges",
           "description": "Fancy badges to add to your README files.",
           "children": [],
@@ -5004,6 +4975,35 @@
               "markdown",
               "markdown-cheatsheet",
               "readme-badges"
+            ]
+          },
+          "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Animated Flag",
+          "description": "Vertex-animated flag.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "for GameMaker 2.3+",
+            "homepage": null,
+            "id": 491379087,
+            "language": "Game Maker Language",
+            "license": "MIT",
+            "last_commit": "2024-05-30T08:55:18Z",
+            "open_issues": 0,
+            "owner": "Grisgram",
+            "repo": "gml-animated-flag",
+            "stars": 12,
+            "topics": [
+              "animation",
+              "game-development",
+              "gamemaker",
+              "gamemaker-language",
+              "gamemaker-studio-2-3",
+              "gml",
+              "gml-raptor"
             ]
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -5114,7 +5114,7 @@
             "open_issues": 18,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3137,
+            "stars": 3136,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5151,7 +5151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T04:35:08.584Z",
+    "last_updated": "2026-09-20T04:51:50.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5163,7 +5163,7 @@
       "open_issues": 3,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 505,
+      "stars": 506,
       "topics": [
         "awesome",
         "awesome-list",
