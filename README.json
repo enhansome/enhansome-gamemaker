@@ -2363,7 +2363,7 @@
             "id": 380869039,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-19T19:34:59Z",
+            "last_commit": "2026-09-20T23:24:37Z",
             "open_issues": 40,
             "owner": "shdwcat",
             "repo": "YUI",
@@ -2384,7 +2384,7 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-19T20:13:53Z",
+            "last_commit": "2026-09-20T20:59:22Z",
             "open_issues": 1,
             "owner": "JujuAdams",
             "repo": "Bento",
@@ -3163,7 +3163,7 @@
             "id": 719185223,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T13:12:26Z",
+            "last_commit": "2026-09-20T22:01:56Z",
             "open_issues": 2,
             "owner": "YoYoGames",
             "repo": "GMEXT-FMOD",
@@ -3877,7 +3877,7 @@
             "id": 240704300,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-17T20:45:40Z",
+            "last_commit": "2026-09-20T07:14:47Z",
             "open_issues": 5,
             "owner": "blueburncz",
             "repo": "BBMOD",
@@ -4717,17 +4717,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Pathfinding and Navigation Framework for GameMaker",
+            "description": "Pathfinding and navigation for GameMaker. Resumable A*, flow fields, cost fields, clearance, isometric and hex grids, platformer jump arcs. Pure GML.",
             "homepage": null,
             "id": 1338350445,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-19T22:41:30Z",
+            "last_commit": "2026-09-20T19:40:33Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "2d-game",
+              "a-star",
+              "crowd-simulation",
+              "dijkstra",
+              "flow-field",
+              "game-ai",
+              "game-development",
+              "game-maker-studio-2",
+              "gamedev",
+              "gamemaker",
+              "gml",
+              "hex-grid",
+              "isometric",
+              "navigation",
+              "obstacle-avoidance",
+              "pathfinding",
+              "platformer",
+              "steering-behaviors",
+              "tilemap"
+            ]
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
         }
@@ -4749,7 +4769,7 @@
             "id": 333001141,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-09-18T07:25:12Z",
+            "last_commit": "2026-09-20T06:25:51Z",
             "open_issues": 0,
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
@@ -5114,7 +5134,7 @@
             "open_issues": 18,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3136,
+            "stars": 3137,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5151,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T04:51:50.237Z",
+    "last_updated": "2026-09-21T04:52:58.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5159,8 +5179,8 @@
       "id": 432027253,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-23T01:15:09Z",
-      "open_issues": 3,
+      "last_commit": "2026-09-20T19:20:57Z",
+      "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
       "stars": 506,
@@ -5175,7 +5195,7 @@
         "games"
       ]
     },
-    "original_repository_sha": "be34586778591e9be157933c65939298bf86bfe4",
+    "original_repository_sha": "cc61551732420bfb869c27f9d527210865fc67ab",
     "enhanced_repository": "enhansome/enhansome-gamemaker",
     "enhanced_repository_description": null,
     "title": "Awesome GameMaker with stars"
