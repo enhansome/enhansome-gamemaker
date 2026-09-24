@@ -1067,7 +1067,7 @@
             "open_issues": 9,
             "owner": "katsaii",
             "repo": "catspeak-lang",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "compiler",
               "domain-specific-language",
@@ -2050,7 +2050,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-22T22:40:20Z",
+            "last_commit": "2026-09-23T13:39:37Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -2384,7 +2384,7 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-20T20:59:22Z",
+            "last_commit": "2026-09-23T07:36:11Z",
             "open_issues": 1,
             "owner": "JujuAdams",
             "repo": "Bento",
@@ -3381,7 +3381,7 @@
             "open_issues": 6,
             "owner": "GlebTsereteli",
             "repo": "GMRoomLoader",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "gamemaker",
               "gml",
@@ -3877,8 +3877,8 @@
             "id": 240704300,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-20T07:14:47Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-23T08:58:23Z",
+            "open_issues": 4,
             "owner": "blueburncz",
             "repo": "BBMOD",
             "stars": 119,
@@ -4553,7 +4553,7 @@
             "open_issues": 4,
             "owner": "sohomsahaun",
             "repo": "SnowState",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "finite-state-machine",
               "gamemaker-studio-2",
@@ -4664,11 +4664,11 @@
             "id": 1338350445,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-22T18:03:10Z",
+            "last_commit": "2026-09-23T21:37:07Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "2d-game",
               "a-star",
@@ -5134,7 +5134,7 @@
             "open_issues": 19,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3139,
+            "stars": 3141,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T04:42:51.548Z",
+    "last_updated": "2026-09-24T04:47:09.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
