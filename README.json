@@ -2363,7 +2363,7 @@
             "id": 380869039,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-20T23:24:37Z",
+            "last_commit": "2026-09-26T22:51:36Z",
             "open_issues": 40,
             "owner": "shdwcat",
             "repo": "YUI",
@@ -3706,6 +3706,27 @@
         },
         {
           "node_type": "item",
+          "title": "1PassBlur",
+          "description": "Blur Shader with adjustable radius.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A 1-pass blur shader for GameMaker Studio 2",
+            "homepage": null,
+            "id": 344296361,
+            "language": "Game Maker Language",
+            "license": null,
+            "last_commit": "2026-01-15T16:18:57Z",
+            "open_issues": 0,
+            "owner": "XorDev",
+            "repo": "1PassBlur",
+            "stars": 16,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
           "title": "Chameleon",
           "description": "Palette Swapper.",
           "children": [],
@@ -3747,27 +3768,6 @@
               "gms2",
               "shader"
             ]
-          },
-          "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
-          "title": "1PassBlur",
-          "description": "Blur Shader with adjustable radius.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A 1-pass blur shader for GameMaker Studio 2",
-            "homepage": null,
-            "id": 344296361,
-            "language": "Game Maker Language",
-            "license": null,
-            "last_commit": "2026-01-15T16:18:57Z",
-            "open_issues": 0,
-            "owner": "XorDev",
-            "repo": "1PassBlur",
-            "stars": 15,
-            "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
         },
@@ -4549,7 +4549,7 @@
             "id": 281814876,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-06T04:42:09Z",
+            "last_commit": "2026-09-26T05:35:09Z",
             "open_issues": 4,
             "owner": "sohomsahaun",
             "repo": "SnowState",
@@ -4668,7 +4668,7 @@
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
-            "stars": 16,
+            "stars": 18,
             "topics": [
               "2d-game",
               "a-star",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T04:55:25.937Z",
+    "last_updated": "2026-09-27T05:16:22.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
