@@ -708,7 +708,7 @@
             "open_issues": 0,
             "owner": "YAL-GameMaker",
             "repo": "file_dragger",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -2253,7 +2253,7 @@
             "language": "Game Maker Language",
             "license": "MIT",
             "last_commit": "2026-09-06T10:28:46Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "JujuAdams",
             "repo": "Scribble",
             "stars": 417,
@@ -2384,8 +2384,8 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-25T10:07:07Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-27T18:36:13Z",
+            "open_issues": 3,
             "owner": "JujuAdams",
             "repo": "Bento",
             "stars": 55,
@@ -4271,7 +4271,7 @@
             "open_issues": 1,
             "owner": "YAL-GameMaker",
             "repo": "steamworks.gml",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "gamemaker",
               "sdk-wrapper",
@@ -4664,7 +4664,7 @@
             "id": 1338350445,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-25T17:54:12Z",
+            "last_commit": "2026-09-28T00:33:09Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
@@ -5131,10 +5131,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3146,
+            "stars": 3149,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:16:22.510Z",
+    "last_updated": "2026-09-28T05:20:45.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
