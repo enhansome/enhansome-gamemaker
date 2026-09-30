@@ -2050,7 +2050,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-28T13:43:57Z",
+            "last_commit": "2026-09-29T13:43:22Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -2256,7 +2256,7 @@
             "open_issues": 33,
             "owner": "JujuAdams",
             "repo": "Scribble",
-            "stars": 417,
+            "stars": 418,
             "topics": [
               "dialogue",
               "gamemaker",
@@ -3985,7 +3985,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-28T13:49:20Z",
+            "last_commit": "2026-09-29T20:43:30Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -5131,10 +5131,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 25,
+            "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3151,
+            "stars": 3156,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T05:41:39.414Z",
+    "last_updated": "2026-09-30T05:29:53.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
