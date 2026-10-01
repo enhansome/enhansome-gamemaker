@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,781 | 🐛 2,015 | 🌐 C++ | 📅 2026-09-28 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 39,799 | 🐛 2,016 | 🌐 C++ | 📅 2026-09-30 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -67,15 +67,15 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 This includes data structures and file formats that do not fit into a more specific category.
 
 * [SNAP](https://github.com/JujuAdams/SNAP) ⭐ 99 | 🐛 6 | 🌐 Game Maker Language | 📅 2026-07-08 - Easy data format saving and loading. Please note that newer versions of GameMaker contain `json_parse` and `json_stringify`. However, if you are converting csv, ini, xml, etc, you may find this very useful.
-* [OKColor](https://github.com/KeeVeeGames/OKColor.gml) ⭐ 56 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-19 - An okay color manager for implementing OKLab/OKLCH colors.
+* [OKColor](https://github.com/KeeVeeGames/OKColor.gml) ⭐ 56 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-30 - An okay color manager for implementing OKLab/OKLCH colors.
 * [GML-OOP](https://github.com/Mtax-Development/GML-OOP) ⭐ 34 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-25 - A constructor library for operating the primary functionalities of GameMaker.
 * [Destructors](https://github.com/DatZach/Destructors) ⭐ 26 | 🐛 2 | 🌐 Yacc | 📅 2022-10-24 - Allows you to use ds\_\* types such as lists and maps inside of structs.
-* [ForEach](https://github.com/KeeVeeGames/foreach.gml) ⭐ 26 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-10-13 - Adds a foreach implementation for arrays, ds\_lists, ds\_maps, ds\_stacks, ds\_queues, ds\_priorities and structs.
-* [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) ⭐ 19 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-12-03 - The most complete list class. Garbage collected, fast sort function, \[] accessor and referencing as an array.
+* [ForEach](https://github.com/KeeVeeGames/foreach.gml) ⭐ 26 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-30 - Adds a foreach implementation for arrays, ds\_lists, ds\_maps, ds\_stacks, ds\_queues, ds\_priorities and structs.
+* [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) ⭐ 19 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-30 - The most complete list class. Garbage collected, fast sort function, \[] accessor and referencing as an array.
 * [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) ⭐ 18 | 🐛 0 | 🌐 Yacc | 📅 2024-05-08 - Another project that adds OOP functionality to GameMaker.
-* [Exception](https://github.com/KeeVeeGames/Exception.gml) ⭐ 17 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-03-29 - A base class for custom exceptions.
+* [Exception](https://github.com/KeeVeeGames/Exception.gml) ⭐ 17 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-30 - A base class for custom exceptions.
 * [Cottonwool](https://github.com/JujuAdams/Cottonwool) ⚠️ Archived - Safe surfaces without memory leaks.
-* [DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) ⭐ 12 | 🐛 0 | 🌐 Game Maker Language | 📅 2023-03-18 - Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
+* [DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) ⭐ 12 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-30 - Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
 * [Lock And Key](https://github.com/AlubJ/Lock-And-Key) ⭐ 10 | 🐛 0 | 🌐 Yacc | 📅 2020-09-07 - String and file encryption.
 * [LWO](https://github.com/tabularelf/lwo) ⚠️ Archived - Lightweight objects using structs.
 * [gm-stream](https://github.com/daikon-games/gm-stream) ⭐ 8 | 🐛 0 | 🌐 Game Maker Language | 📅 2022-03-02 - Data structure manipulation.
@@ -141,7 +141,7 @@ Custom timers, timelines, and task scheduling.
 
 ## Utilities
 
-* [Catspeak](https://github.com/katsaii/catspeak-lang) ⭐ 136 | 🐛 9 | 🌐 Python | 📅 2026-08-19 - Cross-platform programming language for modding support.
+* [Catspeak](https://github.com/katsaii/catspeak-lang) ⭐ 136 | 🐛 10 | 🌐 Python | 📅 2026-08-19 - Cross-platform programming language for modding support.
 * [handytools](https://github.com/JujuAdams/handytools/) ⚠️ Archived - A collection of Juju's libraries in one convenient project.
 * [Iota](https://github.com/JujuAdams/iota) ⭐ 48 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-08 - Lightweight timestep library.
 * [SSave](https://github.com/stoozey/SSave) ⭐ 44 | 🐛 11 | 🌐 Game Maker Language | 📅 2025-10-13 - Simple file saving system.
@@ -223,7 +223,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## User Interface
 
-* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 418 | 🐛 33 | 🌐 Game Maker Language | 📅 2026-09-06 - Efficient multi-effects text renderer.
+* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 418 | 🐛 31 | 🌐 Game Maker Language | 📅 2026-09-30 - Efficient multi-effects text renderer.
 * [Chatterbox](https://github.com/JujuAdams/chatterbox) ⭐ 176 | 🐛 10 | 🌐 Game Maker Language | 📅 2026-08-13 - Narrative scripting tool.
 * [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 123 | 🐛 38 | 🌐 Svelte | 📅 2026-09-19 - An interactive dialogue editor for writers and programmers.
 * [Textboxy](https://github.com/glitchroy/textboxy) ⭐ 64 | 🐛 9 | 🌐 Game Maker Language | 📅 2023-03-05 - Simple textboxes.
@@ -422,7 +422,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Camera
 
-* [STANNcam](https://github.com/jack27121/STANNcam) ⭐ 43 | 🐛 11 | 🌐 Game Maker Language | 📅 2026-08-21 - Camera and resolution manager.
+* [STANNcam](https://github.com/jack27121/STANNcam) ⭐ 43 | 🐛 11 | 🌐 Game Maker Language | 📅 2026-09-30 - Camera and resolution manager.
 * [Pixel Perfect Smooth Camera](https://github.com/YAL-GameMaker/pixel-perfect-smooth-camera) ⭐ 38 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-12-10 - An example of pixel-perfect yet smooth camera.
 * [GameMaker Cameras: As Simple as Possible](https://www.youtube.com/watch?v=_g1LQ6aIJFk) - Pixelated Pope's guide on GameMaker's camera system. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 * [Camera System Guide](https://maddestudiosgames.com/gms2-meet-the-camera-system/) - Getting started with cameras in GameMaker.
@@ -434,7 +434,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 * [Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 * [Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-* [DuplicateSequence](https://github.com/KeeVeeGames/DuplicateSequence.gml) ⭐ 15 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-11 - Make a deep copy of sequence assets/structs for editing at runtime.
+* [DuplicateSequence](https://github.com/KeeVeeGames/DuplicateSequence.gml) ⭐ 15 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-30 - Make a deep copy of sequence assets/structs for editing at runtime.
 
 ## State Machines
 
@@ -525,7 +525,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,156 | 🐛 27 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,385 | 🐛 22 | 🌐 Markdown | 📅 2026-09-26.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,158 | 🐛 27 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,396 | 🐛 24 | 🌐 Markdown | 📅 2026-09-26.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -539,4 +539,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
