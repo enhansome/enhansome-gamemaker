@@ -1193,7 +1193,7 @@
             "id": 185319516,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-08-31T16:09:50Z",
+            "last_commit": "2026-10-02T00:10:22Z",
             "open_issues": 9,
             "owner": "DragoniteSpam",
             "repo": "DDDEditorGMS2",
@@ -2050,7 +2050,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-29T13:43:22Z",
+            "last_commit": "2026-10-01T13:43:05Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -3985,7 +3985,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-29T20:43:30Z",
+            "last_commit": "2026-10-01T19:47:05Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -4668,7 +4668,7 @@
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "2d-game",
               "a-star",
@@ -5134,7 +5134,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3158,
+            "stars": 3159,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T05:48:54.108Z",
+    "last_updated": "2026-10-02T05:33:55.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
