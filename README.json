@@ -2050,7 +2050,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-01T13:43:05Z",
+            "last_commit": "2026-10-02T13:41:02Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -3408,7 +3408,7 @@
             "open_issues": 3,
             "owner": "evolutionleo",
             "repo": "LDtkParser",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -3985,7 +3985,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:47:05Z",
+            "last_commit": "2026-10-02T12:54:00Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -4664,7 +4664,7 @@
             "id": 1338350445,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-28T13:32:25Z",
+            "last_commit": "2026-10-02T20:41:05Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
@@ -5134,7 +5134,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3159,
+            "stars": 3161,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:33:55.355Z",
+    "last_updated": "2026-10-03T04:45:13.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5183,7 +5183,7 @@
       "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 507,
+      "stars": 508,
       "topics": [
         "awesome",
         "awesome-list",
