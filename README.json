@@ -1778,7 +1778,7 @@
             "id": 813866304,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-10-05T03:45:25Z",
+            "last_commit": "2026-10-06T09:57:02Z",
             "open_issues": 46,
             "owner": "tinkerer-red",
             "repo": "GMLC",
@@ -3985,7 +3985,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-05T21:57:20Z",
+            "last_commit": "2026-10-06T10:21:47Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T06:17:39.699Z",
+    "last_updated": "2026-10-06T10:29:52.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
