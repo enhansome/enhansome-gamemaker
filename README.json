@@ -3985,7 +3985,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-04T16:20:23Z",
+            "last_commit": "2026-10-05T21:57:20Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -5134,7 +5134,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3164,
+            "stars": 3166,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T05:35:51.842Z",
+    "last_updated": "2026-10-06T06:17:39.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
