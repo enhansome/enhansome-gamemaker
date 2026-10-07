@@ -565,7 +565,7 @@
             "id": 1134874434,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T09:27:41Z",
+            "last_commit": "2026-10-06T15:25:31Z",
             "open_issues": 1,
             "owner": "YoYoGames",
             "repo": "GM-ExtensionGenerator",
@@ -1778,7 +1778,7 @@
             "id": 813866304,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-10-06T09:57:02Z",
+            "last_commit": "2026-10-07T05:23:34Z",
             "open_issues": 46,
             "owner": "tinkerer-red",
             "repo": "GMLC",
@@ -2256,7 +2256,7 @@
             "open_issues": 31,
             "owner": "JujuAdams",
             "repo": "Scribble",
-            "stars": 418,
+            "stars": 419,
             "topics": [
               "dialogue",
               "gamemaker",
@@ -5134,7 +5134,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3166,
+            "stars": 3165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:29:52.967Z",
+    "last_updated": "2026-10-07T05:56:26.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5183,7 +5183,7 @@
       "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 508,
+      "stars": 509,
       "topics": [
         "awesome",
         "awesome-list",
