@@ -602,6 +602,27 @@
         },
         {
           "node_type": "item",
+          "title": "gameframe",
+          "description": "Custom window caption and border for Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Custom window frame for GameMaker games",
+            "homepage": null,
+            "id": 575149464,
+            "language": "Haxe",
+            "license": "NOASSERTION",
+            "last_commit": "2024-09-15T09:44:56Z",
+            "open_issues": 0,
+            "owner": "YAL-GameMaker",
+            "repo": "gameframe",
+            "stars": 16,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
           "title": "wasm-bridge",
           "description": "A way to use JS extensions in GX/WebAssembly games.",
           "children": [],
@@ -617,27 +638,6 @@
             "owner": "Sidorakh",
             "repo": "wasm-bridge",
             "stars": 16,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
-          "title": "gameframe",
-          "description": "Custom window caption and border for Windows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Custom window frame for GameMaker games",
-            "homepage": null,
-            "id": 575149464,
-            "language": "Haxe",
-            "license": "NOASSERTION",
-            "last_commit": "2024-09-15T09:44:56Z",
-            "open_issues": 0,
-            "owner": "YAL-GameMaker",
-            "repo": "gameframe",
-            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -2050,7 +2050,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-02T13:41:02Z",
+            "last_commit": "2026-10-07T19:34:58Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -3985,7 +3985,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:21:47Z",
+            "last_commit": "2026-10-07T09:11:51Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -5134,7 +5134,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3165,
+            "stars": 3167,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T05:56:26.073Z",
+    "last_updated": "2026-10-08T06:00:25.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
