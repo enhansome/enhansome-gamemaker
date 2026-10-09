@@ -1778,7 +1778,7 @@
             "id": 813866304,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-10-07T05:23:34Z",
+            "last_commit": "2026-10-09T04:23:59Z",
             "open_issues": 46,
             "owner": "tinkerer-red",
             "repo": "GMLC",
@@ -5134,7 +5134,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3167,
+            "stars": 3171,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T06:00:25.885Z",
+    "last_updated": "2026-10-09T06:05:39.674Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
