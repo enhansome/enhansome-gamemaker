@@ -2981,7 +2981,7 @@
             "open_issues": 35,
             "owner": "bscotch",
             "repo": "stitch",
-            "stars": 159,
+            "stars": 158,
             "topics": [
               "audio",
               "game-development",
@@ -4553,7 +4553,7 @@
             "open_issues": 4,
             "owner": "sohomsahaun",
             "repo": "SnowState",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "finite-state-machine",
               "gamemaker-studio-2",
@@ -5131,10 +5131,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3174,
+            "stars": 3175,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T05:49:27.174Z",
+    "last_updated": "2026-10-11T05:43:29.750Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5180,7 +5180,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-20T19:20:57Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
       "stars": 509,
