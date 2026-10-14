@@ -764,7 +764,7 @@
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMMT",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -1662,6 +1662,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GMSmartAgent",
+          "description": "Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.",
+            "homepage": null,
+            "id": 1396303027,
+            "language": "Game Maker Language",
+            "license": "MIT",
+            "last_commit": "2026-10-13T22:14:55Z",
+            "open_issues": 0,
+            "owner": "erkan612",
+            "repo": "GMSmartAgent",
+            "stars": 5,
+            "topics": [
+              "2d-game",
+              "artificial-intelligence",
+              "crowd-simulation",
+              "decision-making",
+              "enemy-ai",
+              "game-ai",
+              "game-development",
+              "gamedev",
+              "gamemaker",
+              "gamemaker-studio-2",
+              "gml",
+              "learning-to-rank",
+              "machine-learning",
+              "npc",
+              "npc-ai",
+              "reinforcement-learning",
+              "response-curves",
+              "utility-ai",
+              "utility-system",
+              "utility-theory"
+            ]
+          },
+          "first_seen": "2026-10-14T04:50:04.756Z"
         },
         {
           "node_type": "item",
@@ -5134,7 +5176,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3178,
+            "stars": 3180,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5171,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:45:29.458Z",
+    "last_updated": "2026-10-14T04:50:04.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5179,8 +5221,8 @@
       "id": 432027253,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-20T19:20:57Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-13T18:29:10Z",
+      "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
       "stars": 510,
@@ -5195,7 +5237,7 @@
         "games"
       ]
     },
-    "original_repository_sha": "cc61551732420bfb869c27f9d527210865fc67ab",
+    "original_repository_sha": "a1f424632df7826f5368cc82b1a48e51f25118d8",
     "enhanced_repository": "enhansome/enhansome-gamemaker",
     "enhanced_repository_description": null,
     "title": "Awesome GameMaker with stars"
