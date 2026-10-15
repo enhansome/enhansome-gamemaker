@@ -1149,7 +1149,7 @@
             "open_issues": 11,
             "owner": "stoozey",
             "repo": "SSave",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -1679,7 +1679,7 @@
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMSmartAgent",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "2d-game",
               "artificial-intelligence",
@@ -2092,7 +2092,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-09T13:43:41Z",
+            "last_commit": "2026-10-14T15:14:31Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -2357,7 +2357,7 @@
             "open_issues": 38,
             "owner": "FaultyFunctions",
             "repo": "Crochet",
-            "stars": 124,
+            "stars": 123,
             "topics": [
               "game-development",
               "gamemaker",
@@ -2426,7 +2426,7 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-27T18:36:13Z",
+            "last_commit": "2026-10-14T20:15:49Z",
             "open_issues": 2,
             "owner": "JujuAdams",
             "repo": "Bento",
@@ -3423,7 +3423,7 @@
             "open_issues": 6,
             "owner": "GlebTsereteli",
             "repo": "GMRoomLoader",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "gamemaker",
               "gml",
@@ -3998,7 +3998,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-21T04:25:07Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Sandman13sq",
             "repo": "DmrVBM-blender-to-gms2",
             "stars": 43,
@@ -4811,7 +4811,7 @@
             "id": 333001141,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-10-13T04:03:23Z",
+            "last_commit": "2026-10-14T10:58:06Z",
             "open_issues": 0,
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
@@ -5176,7 +5176,7 @@
             "open_issues": 27,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3180,
+            "stars": 3182,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T04:50:04.756Z",
+    "last_updated": "2026-10-15T04:35:03.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
