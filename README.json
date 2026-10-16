@@ -1245,7 +1245,7 @@
             "open_issues": 1,
             "owner": "Hyomoto",
             "repo": "FAST",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "fast",
               "game-maker-language",
@@ -1769,7 +1769,7 @@
             "open_issues": 24,
             "owner": "YellowAfterlife",
             "repo": "GMEdit",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "gamemaker",
               "gamemaker-studio",
@@ -2092,7 +2092,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-14T15:14:31Z",
+            "last_commit": "2026-10-15T13:40:57Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -4524,7 +4524,7 @@
             "language": "Game Maker Language",
             "license": "MIT",
             "last_commit": "2026-09-30T07:42:24Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "stann-co",
             "repo": "STANNcam",
             "stars": 43,
@@ -5173,10 +5173,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 27,
+            "open_issues": 29,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3182,
+            "stars": 3183,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T04:35:03.633Z",
+    "last_updated": "2026-10-16T04:28:52.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
