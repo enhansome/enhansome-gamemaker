@@ -1675,11 +1675,11 @@
             "id": 1396303027,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-13T22:14:55Z",
+            "last_commit": "2026-10-17T01:25:11Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMSmartAgent",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "2d-game",
               "artificial-intelligence",
@@ -1769,7 +1769,7 @@
             "open_issues": 24,
             "owner": "YellowAfterlife",
             "repo": "GMEdit",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "gamemaker",
               "gamemaker-studio",
@@ -1999,7 +1999,7 @@
             "open_issues": 8,
             "owner": "GlebTsereteli",
             "repo": "Lookout",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "dear-imgui",
               "debug",
@@ -2944,7 +2944,7 @@
             "open_issues": 0,
             "owner": "GlebTsereteli",
             "repo": "Fracture",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "box2d",
               "destruction",
@@ -5176,7 +5176,7 @@
             "open_issues": 29,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3183,
+            "stars": 3184,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T04:28:52.078Z",
+    "last_updated": "2026-10-17T04:22:19.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5225,7 +5225,7 @@
       "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 510,
+      "stars": 509,
       "topics": [
         "awesome",
         "awesome-list",
