@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,166 | 🐛 2,024 | 🌐 C++ | 📅 2026-10-14 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,187 | 🐛 2,024 | 🌐 C++ | 📅 2026-10-14 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -166,7 +166,7 @@ Custom timers, timelines, and task scheduling.
 * [gml-highscorer](https://github.com/Grisgram/gml-highscorer) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-09-01 - Highscore and trophy system.
 * [RenderStack](https://github.com/FoxyOfJungle/RenderStack) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-12-17 - Organize your game's rendering into a customizable order.
 * [GMVex](https://github.com/erkan612/GMVex) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-30 - Vector graphics framework with SVG support, TrueType font rendering, path boolean operations and fill/stroke rendering.
-* [GMSmartAgent](https://github.com/erkan612/GMSmartAgent) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-10-17 - Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.
+* [GMSmartAgent](https://github.com/erkan612/GMSmartAgent) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-10-18 - Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.
 * [Voxeledphoton's FreeGMScripts](https://github.com/vphoton/FreeGMScripts) ⭐ 3 | 🐛 0 | 📅 2023-01-10 - Additional GML helper functions. Some may be out of date with 2.3+ syntax.
 * [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) ⭐ 3 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-11-08 - Improves Catspeak performance.
 * [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
@@ -289,8 +289,8 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Audio
 
-* [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) ⭐ 73 | 🐛 2 | 🌐 HTML | 📅 2026-09-22 - Official support for FMOD in GameMaker.
-* [Vinyl](https://github.com/JujuAdams/Vinyl) ⭐ 61 | 🐛 6 | 🌐 Game Maker Language | 📅 2026-07-08 - Live updating audio system.
+* [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) ⭐ 74 | 🐛 2 | 🌐 HTML | 📅 2026-09-22 - Official support for FMOD in GameMaker.
+* [Vinyl](https://github.com/JujuAdams/Vinyl) ⭐ 61 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-10-17 - Live updating audio system.
 * [Bard](https://github.com/gl326/bard-audio) ⭐ 40 | 🐛 2 | 🌐 Game Maker Language | 📅 2024-09-16 - An engine for designing and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
 * [FML](https://github.com/Nikkilae/fml) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-03-08 - GameMaker bindings for the FMOD Studio API.
 * [wavload](https://github.com/nkrapivin/wavload) ⭐ 7 | 🐛 0 | 🌐 NSIS | 📅 2020-10-05 - Demonstrates how to externally load .wav files.
@@ -526,7 +526,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,184 | 🐛 29 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,504 | 🐛 40 | 🌐 Markdown | 📅 2026-10-16.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,185 | 🐛 29 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,504 | 🐛 44 | 🌐 Markdown | 📅 2026-10-16.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -540,4 +540,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

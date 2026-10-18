@@ -1675,7 +1675,7 @@
             "id": 1396303027,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-17T01:25:11Z",
+            "last_commit": "2026-10-18T03:57:53Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMSmartAgent",
@@ -3209,7 +3209,7 @@
             "open_issues": 2,
             "owner": "YoYoGames",
             "repo": "GMEXT-FMOD",
-            "stars": 73,
+            "stars": 74,
             "topics": [
               "gm-extension"
             ]
@@ -3228,8 +3228,8 @@
             "id": 282997049,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-07-08T21:30:15Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-17T19:03:29Z",
+            "open_issues": 5,
             "owner": "JujuAdams",
             "repo": "Vinyl",
             "stars": 61,
@@ -5176,7 +5176,7 @@
             "open_issues": 29,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3184,
+            "stars": 3185,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T04:22:19.511Z",
+    "last_updated": "2026-10-18T04:28:31.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
