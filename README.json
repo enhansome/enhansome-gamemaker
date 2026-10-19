@@ -1418,7 +1418,7 @@
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMLiteSearch",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -1568,6 +1568,48 @@
         },
         {
           "node_type": "item",
+          "title": "GMSmartAgent",
+          "description": "Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.",
+            "homepage": null,
+            "id": 1396303027,
+            "language": "Game Maker Language",
+            "license": "MIT",
+            "last_commit": "2026-10-18T17:57:23Z",
+            "open_issues": 0,
+            "owner": "erkan612",
+            "repo": "GMSmartAgent",
+            "stars": 8,
+            "topics": [
+              "2d-game",
+              "artificial-intelligence",
+              "crowd-simulation",
+              "decision-making",
+              "enemy-ai",
+              "game-ai",
+              "game-development",
+              "gamedev",
+              "gamemaker",
+              "gamemaker-studio-2",
+              "gml",
+              "learning-to-rank",
+              "machine-learning",
+              "npc",
+              "npc-ai",
+              "reinforcement-learning",
+              "response-curves",
+              "utility-ai",
+              "utility-system",
+              "utility-theory"
+            ]
+          },
+          "first_seen": "2026-10-14T04:50:04.756Z"
+        },
+        {
+          "node_type": "item",
           "title": "Autoframer",
           "description": "Automatically handles resizing the game view across different display and window sizes.",
           "children": [],
@@ -1662,48 +1704,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GMSmartAgent",
-          "description": "Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.",
-            "homepage": null,
-            "id": 1396303027,
-            "language": "Game Maker Language",
-            "license": "MIT",
-            "last_commit": "2026-10-18T03:57:53Z",
-            "open_issues": 0,
-            "owner": "erkan612",
-            "repo": "GMSmartAgent",
-            "stars": 7,
-            "topics": [
-              "2d-game",
-              "artificial-intelligence",
-              "crowd-simulation",
-              "decision-making",
-              "enemy-ai",
-              "game-ai",
-              "game-development",
-              "gamedev",
-              "gamemaker",
-              "gamemaker-studio-2",
-              "gml",
-              "learning-to-rank",
-              "machine-learning",
-              "npc",
-              "npc-ai",
-              "reinforcement-learning",
-              "response-curves",
-              "utility-ai",
-              "utility-system",
-              "utility-theory"
-            ]
-          },
-          "first_seen": "2026-10-14T04:50:04.756Z"
         },
         {
           "node_type": "item",
@@ -2298,7 +2298,7 @@
             "open_issues": 31,
             "owner": "JujuAdams",
             "repo": "Scribble",
-            "stars": 419,
+            "stars": 420,
             "topics": [
               "dialogue",
               "gamemaker",
@@ -2329,7 +2329,7 @@
             "open_issues": 10,
             "owner": "JujuAdams",
             "repo": "Chatterbox",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "dialogue",
               "game-maker-studio-2",
@@ -2357,7 +2357,7 @@
             "open_issues": 38,
             "owner": "FaultyFunctions",
             "repo": "Crochet",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "game-development",
               "gamemaker",
@@ -2430,7 +2430,7 @@
             "open_issues": 2,
             "owner": "JujuAdams",
             "repo": "Bento",
-            "stars": 55,
+            "stars": 57,
             "topics": [
               "gamemaker",
               "gamemaker-studio-2",
@@ -2534,7 +2534,7 @@
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMUI",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -2659,7 +2659,7 @@
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "MajorGUI_GML",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -2765,6 +2765,37 @@
         },
         {
           "node_type": "item",
+          "title": "Krug's Localize System",
+          "description": "A localization system with real-time Google Sheets API synchronization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Localization system for GMS2 multilingual support synchronized with Google Sheets!",
+            "homepage": null,
+            "id": 819538074,
+            "language": "Game Maker Language",
+            "license": "MIT",
+            "last_commit": "2026-08-12T16:23:08Z",
+            "open_issues": 0,
+            "owner": "Kruger0",
+            "repo": "Localize",
+            "stars": 22,
+            "topics": [
+              "gamemaker",
+              "gamemaker-studio-2",
+              "gms2",
+              "google",
+              "localization",
+              "localization-tool",
+              "sheets",
+              "translation",
+              "translation-management"
+            ]
+          },
+          "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
           "title": "gm-i18n",
           "description": "Internationalization of texts simply and quickly, using JSON files.",
           "children": [],
@@ -2787,37 +2818,6 @@
               "gms2",
               "i18n",
               "json"
-            ]
-          },
-          "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Krug's Localize System",
-          "description": "A localization system with real-time Google Sheets API synchronization.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Localization system for GMS2 multilingual support synchronized with Google Sheets!",
-            "homepage": null,
-            "id": 819538074,
-            "language": "Game Maker Language",
-            "license": "MIT",
-            "last_commit": "2026-08-12T16:23:08Z",
-            "open_issues": 0,
-            "owner": "Kruger0",
-            "repo": "Localize",
-            "stars": 21,
-            "topics": [
-              "gamemaker",
-              "gamemaker-studio-2",
-              "gms2",
-              "google",
-              "localization",
-              "localization-tool",
-              "sheets",
-              "translation",
-              "translation-management"
             ]
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -3023,7 +3023,7 @@
             "open_issues": 35,
             "owner": "bscotch",
             "repo": "stitch",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "audio",
               "game-development",
@@ -3228,7 +3228,7 @@
             "id": 282997049,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-17T19:03:29Z",
+            "last_commit": "2026-10-18T22:03:59Z",
             "open_issues": 5,
             "owner": "JujuAdams",
             "repo": "Vinyl",
@@ -4710,7 +4710,7 @@
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMNav",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "2d-game",
               "a-star",
@@ -5176,7 +5176,7 @@
             "open_issues": 29,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3185,
+            "stars": 3187,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T04:28:31.613Z",
+    "last_updated": "2026-10-19T04:37:14.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
