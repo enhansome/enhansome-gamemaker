@@ -1193,7 +1193,7 @@
             "id": 185319516,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-04T02:14:16Z",
+            "last_commit": "2026-10-21T03:42:14Z",
             "open_issues": 9,
             "owner": "DragoniteSpam",
             "repo": "DDDEditorGMS2",
@@ -4811,11 +4811,11 @@
             "id": 333001141,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-10-14T10:58:06Z",
+            "last_commit": "2026-10-20T17:19:16Z",
             "open_issues": 0,
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
-            "stars": 128,
+            "stars": 129,
             "topics": [
               "engine",
               "framework",
@@ -5173,7 +5173,7 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
             "stars": 3188,
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T04:46:47.467Z",
+    "last_updated": "2026-10-21T04:42:34.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
