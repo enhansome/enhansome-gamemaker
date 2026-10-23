@@ -1193,7 +1193,7 @@
             "id": 185319516,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-21T20:27:24Z",
+            "last_commit": "2026-10-22T16:17:55Z",
             "open_issues": 8,
             "owner": "DragoniteSpam",
             "repo": "DDDEditorGMS2",
@@ -1578,7 +1578,7 @@
             "id": 1396303027,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-19T15:11:29Z",
+            "last_commit": "2026-10-22T21:39:50Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMSmartAgent",
@@ -3508,6 +3508,27 @@
         },
         {
           "node_type": "item",
+          "title": "Random Dungeon Generator",
+          "description": "Combines user-defined chambers to create a dungeon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is my Random Dungeon Generator that is compatible with Game Maker Studio 2.3",
+            "homepage": null,
+            "id": 273293476,
+            "language": "Yacc",
+            "license": null,
+            "last_commit": "2020-06-30T06:29:03Z",
+            "open_issues": 7,
+            "owner": "BlaXun",
+            "repo": "Random-Dungeon-Generator-GMS-2.3",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
           "title": "Room Data Inspector",
           "description": "Collects room data and stores it into a JSON for later use.",
           "children": [],
@@ -3528,27 +3549,6 @@
               "gamemaker-studio-2",
               "gms2"
             ]
-          },
-          "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Random Dungeon Generator",
-          "description": "Combines user-defined chambers to create a dungeon.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is my Random Dungeon Generator that is compatible with Game Maker Studio 2.3",
-            "homepage": null,
-            "id": 273293476,
-            "language": "Yacc",
-            "license": null,
-            "last_commit": "2020-06-30T06:29:03Z",
-            "open_issues": 7,
-            "owner": "BlaXun",
-            "repo": "Random-Dungeon-Generator-GMS-2.3",
-            "stars": 10,
-            "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
         }
@@ -5173,10 +5173,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3189,
+            "stars": 3190,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T04:40:25.882Z",
+    "last_updated": "2026-10-23T04:45:47.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
