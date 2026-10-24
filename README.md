@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,298 | 🐛 2,030 | 🌐 C++ | 📅 2026-10-22 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,318 | 🐛 2,034 | 🌐 C++ | 📅 2026-10-22 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -162,7 +162,7 @@ Custom timers, timelines, and task scheduling.
 * [CoreExtension](https://github.com/blueburncz/CoreExtension) ⚠️ Archived - A collection of CC0 programming libraries. (archived)
 * [RunGML](https://github.com/sdelaughter/RunGML) ⭐ 10 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-07-03 - A runtime scripting language with a Lisp-like syntax.  Facilitates modding support via included JSON files, and debugging/live coding via an in-game console.
 * [Tweeny](https://github.com/Kruger0/Tweeny) ⭐ 9 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-15 - A fire-and-forget tweening library with support for animation curves and ease functions
-* [GMSmartAgent](https://github.com/erkan612/GMSmartAgent) ⭐ 8 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-10-22 - Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.
+* [GMSmartAgent](https://github.com/erkan612/GMSmartAgent) ⭐ 8 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-10-24 - Decision-weighting AI for GameMaker. Utility scoring with response curves, per-target options, commitment, a frame-budget scheduler with priority tiers, and agents that learn from player choices: habit and preference models, re-ranking and prediction. Pure GML.
 * [Autoframer](https://github.com/mstop4/auto-framer) ⭐ 7 | 🐛 0 | 🌐 Yacc | 📅 2021-05-02 - Automatically handles resizing the game view across different display and window sizes.
 * [gml-highscorer](https://github.com/Grisgram/gml-highscorer) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-09-01 - Highscore and trophy system.
 * [RenderStack](https://github.com/FoxyOfJungle/RenderStack) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-12-17 - Organize your game's rendering into a customizable order.
@@ -289,7 +289,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Audio
 
-* [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) ⭐ 74 | 🐛 2 | 🌐 HTML | 📅 2026-09-22 - Official support for FMOD in GameMaker.
+* [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) ⭐ 74 | 🐛 3 | 🌐 HTML | 📅 2026-09-22 - Official support for FMOD in GameMaker.
 * [Vinyl](https://github.com/JujuAdams/Vinyl) ⭐ 61 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-10-18 - Live updating audio system.
 * [Bard](https://github.com/gl326/bard-audio) ⭐ 40 | 🐛 2 | 🌐 Game Maker Language | 📅 2024-09-16 - An engine for designing and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
 * [FML](https://github.com/Nikkilae/fml) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-03-08 - GameMaker bindings for the FMOD Studio API.
@@ -526,7 +526,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,190 | 🐛 32 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,553 | 🐛 45 | 🌐 Markdown | 📅 2026-10-22.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,194 | 🐛 32 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,568 | 🐛 46 | 🌐 Markdown | 📅 2026-10-23.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -540,4 +540,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

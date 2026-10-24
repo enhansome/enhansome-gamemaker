@@ -1578,7 +1578,7 @@
             "id": 1396303027,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-22T21:39:50Z",
+            "last_commit": "2026-10-24T01:26:26Z",
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMSmartAgent",
@@ -3206,7 +3206,7 @@
             "language": "HTML",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T09:23:10Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "YoYoGames",
             "repo": "GMEXT-FMOD",
             "stars": 74,
@@ -5176,7 +5176,7 @@
             "open_issues": 32,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3190,
+            "stars": 3194,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T04:45:47.977Z",
+    "last_updated": "2026-10-24T04:33:03.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
