@@ -569,7 +569,7 @@
             "open_issues": 1,
             "owner": "YoYoGames",
             "repo": "GM-ExtensionGenerator",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -3209,7 +3209,7 @@
             "open_issues": 3,
             "owner": "YoYoGames",
             "repo": "GMEXT-FMOD",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "gm-extension"
             ]
@@ -3423,7 +3423,7 @@
             "open_issues": 6,
             "owner": "GlebTsereteli",
             "repo": "GMRoomLoader",
-            "stars": 136,
+            "stars": 137,
             "topics": [
               "gamemaker",
               "gml",
@@ -4595,7 +4595,7 @@
             "open_issues": 4,
             "owner": "sohomsahaun",
             "repo": "SnowState",
-            "stars": 180,
+            "stars": 179,
             "topics": [
               "finite-state-machine",
               "gamemaker-studio-2",
@@ -5176,7 +5176,7 @@
             "open_issues": 32,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3194,
+            "stars": 3196,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:33:03.930Z",
+    "last_updated": "2026-10-25T04:37:32.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
