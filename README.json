@@ -1556,7 +1556,7 @@
             "open_issues": 0,
             "owner": "Kruger0",
             "repo": "Tweeny",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "animation",
               "gamemaker",
@@ -1769,7 +1769,7 @@
             "open_issues": 24,
             "owner": "YellowAfterlife",
             "repo": "GMEdit",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "gamemaker",
               "gamemaker-studio",
@@ -1798,7 +1798,7 @@
             "open_issues": 5,
             "owner": "GameMakerDiscord",
             "repo": "Rubber",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "gamemaker",
               "gms2",
@@ -3023,7 +3023,7 @@
             "open_issues": 35,
             "owner": "bscotch",
             "repo": "stitch",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "audio",
               "game-development",
@@ -4099,7 +4099,7 @@
             "open_issues": 0,
             "owner": "cicadian",
             "repo": "Bronze-Box",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -4842,7 +4842,7 @@
             "open_issues": 6,
             "owner": "dracula",
             "repo": "gamemaker-studio",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "dark-theme",
               "gamemaker-studio",
@@ -5173,10 +5173,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3199,
+            "stars": 3201,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T04:43:12.543Z",
+    "last_updated": "2026-10-27T04:59:58.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5225,7 +5225,7 @@
       "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 509,
+      "stars": 510,
       "topics": [
         "awesome",
         "awesome-list",
