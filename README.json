@@ -2092,7 +2092,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-21T16:07:49Z",
+            "last_commit": "2026-10-29T13:34:47Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -5173,10 +5173,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 35,
+            "open_issues": 37,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3203,
+            "stars": 3204,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T05:44:24.081Z",
+    "last_updated": "2026-10-30T05:44:21.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
