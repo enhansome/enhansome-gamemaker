@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,566 | 🐛 2,052 | 🌐 C++ | 📅 2026-10-30 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,607 | 🐛 2,053 | 🌐 C++ | 📅 2026-11-02 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -182,7 +182,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 * [GMEdit](https://github.com/YellowAfterlife/GMEdit) ⭐ 371 | 🐛 24 | 🌐 JavaScript | 📅 2026-07-22 - Code editor to use in conjunction with GameMaker.
 * [Rubber](https://github.com/GameMakerDiscord/Rubber) ⭐ 33 | 🐛 5 | 🌐 TypeScript | 📅 2021-02-20 - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
-* [GMLC](https://github.com/tinkerer-red/GMLC) ⭐ 18 | 🐛 46 | 🌐 Game Maker Language | 📅 2026-10-10 - Runtime compiler and interpreter to load, compile, and execute GML code at runtime.
+* [GMLC](https://github.com/tinkerer-red/GMLC) ⭐ 18 | 🐛 46 | 🌐 Game Maker Language | 📅 2026-11-02 - Runtime compiler and interpreter to load, compile, and execute GML code at runtime.
 * [GMLVM](https://github.com/erkan612/GMLVM) ⭐ 5 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-05-21 - An easy to use complete GML interpreter to execute GML at runtime.
 * [Stitch for VSCode](https://marketplace.visualstudio.com/items?itemName=bscotch.bscotch-stitch-vscode) - Edit GameMaker projects in VSCode.
 * [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes `.yyp` files for you.
@@ -202,7 +202,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [Olympus](https://github.com/bscotch/olympus) ⭐ 21 | 🐛 0 | 🌐 Game Maker Language | 📅 2024-05-13 - Testing Framework.
 * [Inspectron](https://github.com/shdwcat/Inspectron) ⭐ 16 | 🐛 1 | 🌐 Game Maker Language | 📅 2024-06-19 - A fluent API for easily creating GameMaker debug views.
 * [Duck](https://github.com/imlazyeye/duck) ⭐ 13 | 🐛 0 | 🌐 Rust | 📅 2025-06-05 - A fast GML analyzer to enforce code styling and detect errors.
-* [Ganary](https://github.com/bscotch/ganary) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-30 - Uses Olympus to perform regression tests.
+* [Ganary](https://github.com/bscotch/ganary) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-02 - Uses Olympus to perform regression tests.
 * [Meta](https://github.com/nommiin/meta) ⭐ 8 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-08-15 - Runtime asset inspector.
 * [gm-verrific](https://github.com/Alphish/gm-verrific) ⭐ 5 | 🐛 8 | 🌐 Game Maker Language | 📅 2025-10-12 - The ultimate automated testing framework.
 * [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-07-22 - A bit less opinionated code formatter for GML, with more options and functionality.
@@ -232,7 +232,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [Bento](https://github.com/JujuAdams/Bento) ⭐ 57 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-10-14 - Cross-platform UI framework.
 * [NotificationSystem](https://github.com/babaganosch/NotificationSystem) ⭐ 44 | 🐛 0 | 🌐 Yacc | 📅 2023-12-28 - Notifications in GameMaker.
 * [Emu UI](https://github.com/DragoniteSpam/Emu) ⭐ 44 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-02-18 - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
-* [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 36 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-09-13 - Flexpanel system for modern, touch-friendly interfaces.
+* [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 36 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-11-02 - Flexpanel system for modern, touch-friendly interfaces.
 * [GMUI](https://github.com/erkan612/GMUI) ⭐ 33 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-08 - Immediate mode GameMaker UI library, tons of UI components.
 * [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) ⭐ 29 | 🐛 21 | 🌐 Game Maker Language | 📅 2021-07-20 - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
 * [Guido](https://github.com/JujuAdams/Guido) ⚠️ Archived - Simple immediate mode GUI framework.
@@ -290,7 +290,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Audio
 
 * [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) ⭐ 75 | 🐛 3 | 🌐 HTML | 📅 2026-09-22 - Official support for FMOD in GameMaker.
-* [Vinyl](https://github.com/JujuAdams/Vinyl) ⭐ 61 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-11-01 - Live updating audio system.
+* [Vinyl](https://github.com/JujuAdams/Vinyl) ⭐ 61 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-11-03 - Live updating audio system.
 * [Bard](https://github.com/gl326/bard-audio) ⭐ 40 | 🐛 2 | 🌐 Game Maker Language | 📅 2024-09-16 - An engine for designing and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
 * [FML](https://github.com/Nikkilae/fml) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-03-08 - GameMaker bindings for the FMOD Studio API.
 * [wavload](https://github.com/nkrapivin/wavload) ⭐ 7 | 🐛 0 | 🌐 NSIS | 📅 2020-10-05 - Demonstrates how to externally load .wav files.
@@ -396,7 +396,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Networking
 
-* [Warp](https://github.com/evolutionleo/Warp) ⭐ 149 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - A feature-rich framework for multiplayer games, written in GameMaker and Node.js.
+* [Warp](https://github.com/evolutionleo/Warp) ⭐ 150 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - A feature-rich framework for multiplayer games, written in GameMaker and Node.js.
 * [Patchwire-GM](https://github.com/gm-core/patchwire-gm) ⭐ 35 | 🐛 0 | 🌐 Yacc | 📅 2020-09-13 - The network library from gm-core if you want to use this implementation without the entire gm-core suite.
 * [MultiClient](https://github.com/tabularelf/MultiClient) ⭐ 30 | 🐛 1 | 🌐 Batchfile | 📅 2026-01-06 - Non-dll, multiple client launcher for network development.
 * [HTTP GML](https://github.com/Sidorakh/http.gml) ⭐ 20 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-08-29 - Receive GET requests and upload files in GML.
@@ -526,7 +526,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,209 | 🐛 38 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,661 | 🐛 42 | 🌐 Markdown | 📅 2026-10-31.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,209 | 🐛 38 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,671 | 🐛 45 | 🌐 Markdown | 📅 2026-10-31.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -540,4 +540,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

@@ -1820,7 +1820,7 @@
             "id": 813866304,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-10-10T01:44:01Z",
+            "last_commit": "2026-11-02T06:20:55Z",
             "open_issues": 46,
             "owner": "tinkerer-red",
             "repo": "GMLC",
@@ -2092,7 +2092,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-30T13:35:23Z",
+            "last_commit": "2026-11-02T13:35:08Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -2509,7 +2509,7 @@
             "id": 499335934,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-09-13T23:27:54Z",
+            "last_commit": "2026-11-02T21:24:12Z",
             "open_issues": 2,
             "owner": "Limekys",
             "repo": "LimeUI",
@@ -3228,7 +3228,7 @@
             "id": 282997049,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-01T17:06:47Z",
+            "last_commit": "2026-11-03T00:04:21Z",
             "open_issues": 5,
             "owner": "JujuAdams",
             "repo": "Vinyl",
@@ -4126,7 +4126,7 @@
             "open_issues": 0,
             "owner": "evolutionleo",
             "repo": "Warp",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "framework",
               "gamemaker",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T05:58:04.154Z",
+    "last_updated": "2026-11-03T06:44:19.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
