@@ -51,7 +51,7 @@
             "open_issues": 0,
             "owner": "KeeVeeGames",
             "repo": "OKColor.gml",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "color",
               "color-mixing",
@@ -3450,7 +3450,7 @@
             "open_issues": 3,
             "owner": "evolutionleo",
             "repo": "LDtkParser",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -5176,7 +5176,7 @@
             "open_issues": 38,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3209,
+            "stars": 3211,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T06:44:19.622Z",
+    "last_updated": "2026-11-04T06:14:49.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
