@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,640 | 🐛 2,054 | 🌐 C++ | 📅 2026-11-03 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,676 | 🐛 2,056 | 🌐 C++ | 📅 2026-11-04 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -146,7 +146,7 @@ Custom timers, timelines, and task scheduling.
 * [Iota](https://github.com/JujuAdams/iota) ⭐ 48 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-08 - Lightweight timestep library.
 * [SSave](https://github.com/stoozey/SSave) ⭐ 45 | 🐛 11 | 🌐 Game Maker Language | 📅 2025-10-13 - Simple file saving system.
 * [Dynamo](https://github.com/JujuAdams/Dynamo) ⭐ 36 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-08 - Dynamic data loader.
-* [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) ⭐ 35 | 🐛 8 | 🌐 Game Maker Language | 📅 2026-10-22 - General purpose game editor.
+* [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) ⭐ 35 | 🐛 8 | 🌐 Game Maker Language | 📅 2026-11-05 - General purpose game editor.
 * [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) ⭐ 34 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-08-18 - A tool to benchmark GML code.
 * [FAST](https://github.com/Hyomoto/FAST) ⭐ 32 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-02-23 - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
 * [Seedpod](https://github.com/daikon-games/gm-seedpod) ⭐ 29 | 🐛 1 | 🌐 Game Maker Language | 📅 2023-07-18 - A collection of scripts to improve the GML programming experience.
@@ -526,7 +526,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,211 | 🐛 38 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,678 | 🐛 45 | 🌐 Markdown | 📅 2026-11-03.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,212 | 🐛 39 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,694 | 🐛 43 | 🌐 Markdown | 📅 2026-11-04.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -540,4 +540,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

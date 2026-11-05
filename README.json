@@ -1193,7 +1193,7 @@
             "id": 185319516,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-22T16:17:55Z",
+            "last_commit": "2026-11-05T00:40:56Z",
             "open_issues": 8,
             "owner": "DragoniteSpam",
             "repo": "DDDEditorGMS2",
@@ -5173,10 +5173,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3211,
+            "stars": 3212,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T06:14:49.000Z",
+    "last_updated": "2026-11-05T06:41:47.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5225,7 +5225,7 @@
       "open_issues": 3,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 511,
+      "stars": 512,
       "topics": [
         "awesome",
         "awesome-list",
