@@ -4027,7 +4027,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-12T06:59:57Z",
+            "last_commit": "2026-11-05T14:52:04Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T06:41:47.069Z",
+    "last_updated": "2026-11-06T06:38:27.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5222,7 +5222,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-13T18:29:10Z",
-      "open_issues": 3,
+      "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
       "stars": 512,
