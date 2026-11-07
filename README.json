@@ -2092,7 +2092,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-02T13:35:08Z",
+            "last_commit": "2026-11-06T13:35:22Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -4027,11 +4027,11 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-05T14:52:04Z",
+            "last_commit": "2026-11-06T15:48:22Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T06:38:27.899Z",
+    "last_updated": "2026-11-07T05:55:15.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5225,7 +5225,7 @@
       "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 512,
+      "stars": 513,
       "topics": [
         "awesome",
         "awesome-list",
