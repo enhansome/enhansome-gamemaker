@@ -2124,27 +2124,6 @@
         },
         {
           "node_type": "item",
-          "title": "gm-verrific",
-          "description": "The ultimate automated testing framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The ultimate automated testing framework for GameMaker... in the works.",
-            "homepage": null,
-            "id": 517004660,
-            "language": "Game Maker Language",
-            "license": "MIT",
-            "last_commit": "2025-10-12T14:18:29Z",
-            "open_issues": 8,
-            "owner": "Alphish",
-            "repo": "gm-verrific",
-            "stars": 5,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
           "title": "Gobo (EttyKitty fork)",
           "description": "A bit less opinionated code formatter for GML, with more options and functionality.",
           "children": [],
@@ -2166,6 +2145,27 @@
             ]
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gm-verrific",
+          "description": "The ultimate automated testing framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The automated testing framework for GameMaker.",
+            "homepage": null,
+            "id": 1449785400,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-11-07T22:24:17Z",
+            "open_issues": 0,
+            "owner": "Alphish",
+            "repo": "gm-verrific",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-08T05:57:24.602Z"
         }
       ],
       "title": "Debugging"
@@ -5176,7 +5176,7 @@
             "open_issues": 39,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3212,
+            "stars": 3214,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T05:55:15.440Z",
+    "last_updated": "2026-11-08T05:57:24.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
