@@ -2092,7 +2092,7 @@
             "id": 310680327,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-06T13:35:22Z",
+            "last_commit": "2026-11-09T13:35:02Z",
             "open_issues": 1,
             "owner": "bscotch",
             "repo": "ganary",
@@ -3228,7 +3228,7 @@
             "id": 282997049,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-08T15:43:41Z",
+            "last_commit": "2026-11-09T20:44:57Z",
             "open_issues": 5,
             "owner": "JujuAdams",
             "repo": "Vinyl",
@@ -4811,7 +4811,7 @@
             "id": 333001141,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-11-09T04:26:31Z",
+            "last_commit": "2026-11-10T05:31:17Z",
             "open_issues": 0,
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
@@ -5176,7 +5176,7 @@
             "open_issues": 39,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3216,
+            "stars": 3215,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:21:06.968Z",
+    "last_updated": "2026-11-10T07:13:48.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
