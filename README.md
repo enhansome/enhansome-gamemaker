@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,819 | 🐛 2,061 | 🌐 C++ | 📅 2026-11-04 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,855 | 🐛 2,061 | 🌐 C++ | 📅 2026-11-10 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -180,7 +180,7 @@ Custom timers, timelines, and task scheduling.
 
 Things that work with project files or GameMaker itself rather than being something that's used in-game.
 
-* [GMEdit](https://github.com/YellowAfterlife/GMEdit) ⭐ 371 | 🐛 24 | 🌐 JavaScript | 📅 2026-07-22 - Code editor to use in conjunction with GameMaker.
+* [GMEdit](https://github.com/YellowAfterlife/GMEdit) ⭐ 372 | 🐛 24 | 🌐 JavaScript | 📅 2026-07-22 - Code editor to use in conjunction with GameMaker.
 * [Rubber](https://github.com/GameMakerDiscord/Rubber) ⭐ 33 | 🐛 5 | 🌐 TypeScript | 📅 2021-02-20 - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
 * [GMLC](https://github.com/tinkerer-red/GMLC) ⭐ 18 | 🐛 46 | 🌐 Game Maker Language | 📅 2026-11-02 - Runtime compiler and interpreter to load, compile, and execute GML code at runtime.
 * [GMLVM](https://github.com/erkan612/GMLVM) ⭐ 5 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-05-21 - An easy to use complete GML interpreter to execute GML at runtime.
@@ -205,7 +205,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [Ganary](https://github.com/bscotch/ganary) ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-09 - Uses Olympus to perform regression tests.
 * [Meta](https://github.com/nommiin/meta) ⭐ 8 | 🐛 0 | 🌐 Game Maker Language | 📅 2020-08-15 - Runtime asset inspector.
 * [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2026-07-22 - A bit less opinionated code formatter for GML, with more options and functionality.
-* [gm-verrific](https://github.com/Alphish/gm-verrific) ⭐ 0 | 🐛 1 | 📅 2026-11-07 - The ultimate automated testing framework.
+* [gm-verrific](https://github.com/Alphish/gm-verrific) ⭐ 0 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-11-10 - The ultimate automated testing framework.
 * [DeerLog](https://mulfok.itch.io/gamemaker-deerlog) - Small log writer.
 * [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 * [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
@@ -458,7 +458,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Useful Extras
 
-* [OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) ⭐ 130 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-11-10 - Accurate framework to make classic Sonic games.
+* [OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) ⭐ 130 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-11-11 - Accurate framework to make classic Sonic games.
 * [Dracula Theme](https://github.com/dracula/gamemaker-studio) ⭐ 92 | 🐛 6 | 📅 2025-09-21 - A dark theme for the IDE.
 * [CleanShapes](https://github.com/JujuAdams/Clean-Shapes) ⭐ 48 | 🐛 9 | 🌐 Game Maker Language | 📅 2026-05-26 - Antialiased primitives library for GameMaker.
 * [Starfield Generator](https://github.com/PixelProphecy/gml_starfield_generator) ⭐ 33 | 🐛 1 | 🌐 Game Maker Language | 📅 2022-06-13 - A script to generate starfields in GameMaker's GML language.
@@ -526,7 +526,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,215 | 🐛 39 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,737 | 🐛 45 | 🌐 Markdown | 📅 2026-11-09.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,216 | 🐛 39 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,748 | 🐛 46 | 🌐 Markdown | 📅 2026-11-10.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -540,4 +540,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
