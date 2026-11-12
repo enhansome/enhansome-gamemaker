@@ -2426,8 +2426,8 @@
             "id": 255056387,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-10-14T20:15:49Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-11T20:17:40Z",
+            "open_issues": 1,
             "owner": "JujuAdams",
             "repo": "Bento",
             "stars": 57,
@@ -3209,7 +3209,7 @@
             "open_issues": 3,
             "owner": "YoYoGames",
             "repo": "GMEXT-FMOD",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "gm-extension"
             ]
@@ -4027,7 +4027,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-08T14:00:13Z",
+            "last_commit": "2026-11-11T21:43:55Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -4122,8 +4122,8 @@
             "id": 308929361,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-31T22:44:06Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-11T08:37:55Z",
+            "open_issues": 1,
             "owner": "evolutionleo",
             "repo": "Warp",
             "stars": 150,
@@ -4811,7 +4811,7 @@
             "id": 333001141,
             "language": "Game Maker Language",
             "license": null,
-            "last_commit": "2026-11-11T05:26:09Z",
+            "last_commit": "2026-11-12T05:19:00Z",
             "open_issues": 0,
             "owner": "TrianglyRU",
             "repo": "OrbinautFramework",
@@ -5173,10 +5173,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3216,
+            "stars": 3218,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T06:11:00.119Z",
+    "last_updated": "2026-11-12T07:06:35.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
