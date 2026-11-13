@@ -1893,7 +1893,7 @@
             "open_issues": 8,
             "owner": "bfrymire",
             "repo": "crispy",
-            "stars": 41,
+            "stars": 40,
             "topics": [
               "gamemaker",
               "gamemaker-lts",
@@ -2158,7 +2158,7 @@
             "id": 1449785400,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-10T13:30:15Z",
+            "last_commit": "2026-11-12T12:47:54Z",
             "open_issues": 1,
             "owner": "Alphish",
             "repo": "gm-verrific",
@@ -3023,7 +3023,7 @@
             "open_issues": 36,
             "owner": "bscotch",
             "repo": "stitch",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "audio",
               "game-development",
@@ -3228,7 +3228,7 @@
             "id": 282997049,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-09T20:44:57Z",
+            "last_commit": "2026-11-12T22:41:07Z",
             "open_issues": 5,
             "owner": "JujuAdams",
             "repo": "Vinyl",
@@ -4027,7 +4027,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-11T21:43:55Z",
+            "last_commit": "2026-11-12T14:46:29Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -5176,7 +5176,7 @@
             "open_issues": 40,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3218,
+            "stars": 3221,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:06:35.680Z",
+    "last_updated": "2026-11-13T06:40:41.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
