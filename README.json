@@ -1067,7 +1067,7 @@
             "open_issues": 10,
             "owner": "katsaii",
             "repo": "catspeak-lang",
-            "stars": 136,
+            "stars": 135,
             "topics": [
               "compiler",
               "domain-specific-language",
@@ -3228,7 +3228,7 @@
             "id": 282997049,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-12T22:41:07Z",
+            "last_commit": "2026-11-13T09:38:49Z",
             "open_issues": 5,
             "owner": "JujuAdams",
             "repo": "Vinyl",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T06:40:41.016Z",
+    "last_updated": "2026-11-14T06:17:46.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",

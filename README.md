@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,900 | 🐛 2,064 | 🌐 C++ | 📅 2026-11-10 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 40,916 | 🐛 2,066 | 🌐 C++ | 📅 2026-11-10 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -141,7 +141,7 @@ Custom timers, timelines, and task scheduling.
 
 ## Utilities
 
-* [Catspeak](https://github.com/katsaii/catspeak-lang) ⭐ 136 | 🐛 10 | 🌐 Python | 📅 2026-08-19 - Cross-platform programming language for modding support.
+* [Catspeak](https://github.com/katsaii/catspeak-lang) ⭐ 135 | 🐛 10 | 🌐 Python | 📅 2026-08-19 - Cross-platform programming language for modding support.
 * [handytools](https://github.com/JujuAdams/handytools/) ⚠️ Archived - A collection of Juju's libraries in one convenient project.
 * [Iota](https://github.com/JujuAdams/iota) ⭐ 48 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-08 - Lightweight timestep library.
 * [SSave](https://github.com/stoozey/SSave) ⭐ 45 | 🐛 11 | 🌐 Game Maker Language | 📅 2025-10-13 - Simple file saving system.
@@ -290,7 +290,7 @@ Things that work with project files or GameMaker itself rather than being someth
 ## Audio
 
 * [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) ⭐ 76 | 🐛 3 | 🌐 HTML | 📅 2026-09-22 - Official support for FMOD in GameMaker.
-* [Vinyl](https://github.com/JujuAdams/Vinyl) ⭐ 61 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-11-12 - Live updating audio system.
+* [Vinyl](https://github.com/JujuAdams/Vinyl) ⭐ 61 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-11-13 - Live updating audio system.
 * [Bard](https://github.com/gl326/bard-audio) ⭐ 40 | 🐛 2 | 🌐 Game Maker Language | 📅 2024-09-16 - An engine for designing and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
 * [FML](https://github.com/Nikkilae/fml) ⭐ 7 | 🐛 0 | 🌐 Game Maker Language | 📅 2025-03-08 - GameMaker bindings for the FMOD Studio API.
 * [wavload](https://github.com/nkrapivin/wavload) ⭐ 7 | 🐛 0 | 🌐 NSIS | 📅 2020-10-05 - Demonstrates how to externally load .wav files.
@@ -526,7 +526,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,221 | 🐛 40 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,767 | 🐛 48 | 🌐 Markdown | 📅 2026-11-12.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,221 | 🐛 40 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,771 | 🐛 46 | 🌐 Markdown | 📅 2026-11-13.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -540,4 +540,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
