@@ -2298,7 +2298,7 @@
             "open_issues": 31,
             "owner": "JujuAdams",
             "repo": "Scribble",
-            "stars": 420,
+            "stars": 421,
             "topics": [
               "dialogue",
               "gamemaker",
@@ -5173,10 +5173,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3221,
+            "stars": 3223,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:17:46.429Z",
+    "last_updated": "2026-11-15T06:24:50.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
