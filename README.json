@@ -1193,7 +1193,7 @@
             "id": 185319516,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-05T00:40:56Z",
+            "last_commit": "2026-11-16T04:52:41Z",
             "open_issues": 8,
             "owner": "DragoniteSpam",
             "repo": "DDDEditorGMS2",
@@ -2482,7 +2482,7 @@
             "id": 270913228,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-02-18T22:45:51Z",
+            "last_commit": "2026-11-15T22:04:04Z",
             "open_issues": 5,
             "owner": "DragoniteSpam",
             "repo": "Emu",
@@ -3023,7 +3023,7 @@
             "open_issues": 36,
             "owner": "bscotch",
             "repo": "stitch",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "audio",
               "game-development",
@@ -3228,7 +3228,7 @@
             "id": 282997049,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-13T09:38:49Z",
+            "last_commit": "2026-11-15T15:06:24Z",
             "open_issues": 5,
             "owner": "JujuAdams",
             "repo": "Vinyl",
@@ -3423,7 +3423,7 @@
             "open_issues": 6,
             "owner": "GlebTsereteli",
             "repo": "GMRoomLoader",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "gamemaker",
               "gml",
@@ -4027,7 +4027,7 @@
             "id": 382895815,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-12T14:46:29Z",
+            "last_commit": "2026-11-15T17:27:58Z",
             "open_issues": 12,
             "owner": "JujuAdams",
             "repo": "Bonk",
@@ -4349,6 +4349,37 @@
         },
         {
           "node_type": "item",
+          "title": "GMHook",
+          "description": "We really like Discord integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Discord Webhook implementation for GameMaker",
+            "homepage": null,
+            "id": 987445390,
+            "language": "Game Maker Language",
+            "license": "MIT",
+            "last_commit": "2026-07-04T03:25:37Z",
+            "open_issues": 0,
+            "owner": "Kruger0",
+            "repo": "GMHook",
+            "stars": 12,
+            "topics": [
+              "discord",
+              "discord-webhook",
+              "discord-webhook-api",
+              "discord-webhooks",
+              "gamemaker",
+              "gamemaker-studio",
+              "gamemaker-studio-2",
+              "webhook",
+              "webhooks"
+            ]
+          },
+          "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
           "title": "GMS2_RPC",
           "description": "Another Discord integration.",
           "children": [],
@@ -4382,37 +4413,6 @@
               "rich-presence",
               "tray",
               "tray-application"
-            ]
-          },
-          "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
-          "title": "GMHook",
-          "description": "We really like Discord integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Discord Webhook implementation for GameMaker",
-            "homepage": null,
-            "id": 987445390,
-            "language": "Game Maker Language",
-            "license": "MIT",
-            "last_commit": "2026-07-04T03:25:37Z",
-            "open_issues": 0,
-            "owner": "Kruger0",
-            "repo": "GMHook",
-            "stars": 11,
-            "topics": [
-              "discord",
-              "discord-webhook",
-              "discord-webhook-api",
-              "discord-webhooks",
-              "gamemaker",
-              "gamemaker-studio",
-              "gamemaker-studio-2",
-              "webhook",
-              "webhooks"
             ]
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T06:24:50.187Z",
+    "last_updated": "2026-11-16T06:23:15.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
