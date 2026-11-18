@@ -51,7 +51,7 @@
             "open_issues": 0,
             "owner": "KeeVeeGames",
             "repo": "OKColor.gml",
-            "stars": 58,
+            "stars": 57,
             "topics": [
               "color",
               "color-mixing",
@@ -683,7 +683,7 @@
             "open_issues": 0,
             "owner": "YAL-GameMaker",
             "repo": "GMSDLL.rs",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "gamemaker",
               "rust",
@@ -1769,7 +1769,7 @@
             "open_issues": 24,
             "owner": "YellowAfterlife",
             "repo": "GMEdit",
-            "stars": 373,
+            "stars": 372,
             "topics": [
               "gamemaker",
               "gamemaker-studio",
@@ -1798,7 +1798,7 @@
             "open_issues": 5,
             "owner": "GameMakerDiscord",
             "repo": "Rubber",
-            "stars": 33,
+            "stars": 32,
             "topics": [
               "gamemaker",
               "gms2",
@@ -2295,10 +2295,10 @@
             "language": "Game Maker Language",
             "license": "MIT",
             "last_commit": "2026-10-30T18:14:39Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "JujuAdams",
             "repo": "Scribble",
-            "stars": 421,
+            "stars": 420,
             "topics": [
               "dialogue",
               "gamemaker",
@@ -2329,7 +2329,7 @@
             "open_issues": 10,
             "owner": "JujuAdams",
             "repo": "Chatterbox",
-            "stars": 177,
+            "stars": 176,
             "topics": [
               "dialogue",
               "game-maker-studio-2",
@@ -3023,7 +3023,7 @@
             "open_issues": 36,
             "owner": "bscotch",
             "repo": "stitch",
-            "stars": 162,
+            "stars": 161,
             "topics": [
               "audio",
               "game-development",
@@ -3259,7 +3259,7 @@
             "open_issues": 2,
             "owner": "gl326",
             "repo": "bard-audio",
-            "stars": 40,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -3423,7 +3423,7 @@
             "open_issues": 6,
             "owner": "GlebTsereteli",
             "repo": "GMRoomLoader",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "gamemaker",
               "gml",
@@ -4189,7 +4189,7 @@
             "open_issues": 1,
             "owner": "tabularelf",
             "repo": "MultiClient",
-            "stars": 30,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -5173,10 +5173,10 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 42,
+            "open_issues": 44,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3226,
+            "stars": 3229,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T07:52:09.998Z",
+    "last_updated": "2026-11-18T07:23:51.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
@@ -5225,7 +5225,7 @@
       "open_issues": 2,
       "owner": "bytecauldron",
       "repo": "awesome-gamemaker",
-      "stars": 514,
+      "stars": 516,
       "topics": [
         "awesome",
         "awesome-list",
