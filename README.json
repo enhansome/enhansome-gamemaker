@@ -1845,7 +1845,7 @@
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMLVM",
-            "stars": 5,
+            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -2295,7 +2295,7 @@
             "language": "Game Maker Language",
             "license": "MIT",
             "last_commit": "2026-10-30T18:14:39Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "JujuAdams",
             "repo": "Scribble",
             "stars": 420,
@@ -2534,7 +2534,7 @@
             "open_issues": 0,
             "owner": "erkan612",
             "repo": "GMUI",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -2624,6 +2624,27 @@
         },
         {
           "node_type": "item",
+          "title": "MajorGUI",
+          "description": "Surface-based GUI that allows 100% control over UI styling and functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MajorGUI - Retained-Mode Canvas Based Hierarchical GUI Library for GameMaker",
+            "homepage": null,
+            "id": 841653522,
+            "language": "Game Maker Language",
+            "license": "MIT",
+            "last_commit": "2026-04-15T15:23:52Z",
+            "open_issues": 0,
+            "owner": "erkan612",
+            "repo": "MajorGUI_GML",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T11:21:20.857Z"
+        },
+        {
+          "node_type": "item",
           "title": "SimpleBook",
           "description": "Simple book rendering framework.",
           "children": [],
@@ -2639,27 +2660,6 @@
             "owner": "Gizmo199",
             "repo": "SimpleBook",
             "stars": 11,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T11:21:20.857Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MajorGUI",
-          "description": "Surface-based GUI that allows 100% control over UI styling and functionality.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MajorGUI - Retained-Mode Canvas Based Hierarchical GUI Library for GameMaker",
-            "homepage": null,
-            "id": 841653522,
-            "language": "Game Maker Language",
-            "license": "MIT",
-            "last_commit": "2026-04-15T15:23:52Z",
-            "open_issues": 0,
-            "owner": "erkan612",
-            "repo": "MajorGUI_GML",
-            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -3020,7 +3020,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-06-15T15:03:53Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "bscotch",
             "repo": "stitch",
             "stars": 161,
@@ -4839,7 +4839,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-09-21T11:22:32Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "dracula",
             "repo": "gamemaker-studio",
             "stars": 92,
@@ -5213,7 +5213,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T07:23:51.963Z",
+    "last_updated": "2026-11-19T07:20:23.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
