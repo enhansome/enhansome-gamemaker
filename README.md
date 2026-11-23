@@ -56,7 +56,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 * If you already have programming experience, learn the GameMaker Language (GML) instead of the Visual (Drag and Drop) feature.
 * For pixel art, [Aseprite](https://www.aseprite.org/) is a popular alternative to the native sprite editor. 💸
-* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 41,083 | 🐛 2,066 | 🌐 C++ | 📅 2026-11-20 - Can be compiled for free.
+* [Aseprite's source code](https://github.com/aseprite/aseprite) ⭐ 41,099 | 🐛 2,067 | 🌐 C++ | 📅 2026-11-20 - Can be compiled for free.
 * Don't be afraid to use other developer libraries. A lot of them are free for a reason. Just be mindful of the license.
 * Updates to the IDE and runtime can break your game (like syntax changes to GML). If you are working in a group, make sure you are running on the same version of GMS and only update when given a fair warning. You can reinstall previous versions of your IDE at the GMS download page.
 * Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
@@ -146,7 +146,7 @@ Custom timers, timelines, and task scheduling.
 * [Iota](https://github.com/JujuAdams/iota) ⭐ 48 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-08 - Lightweight timestep library.
 * [SSave](https://github.com/stoozey/SSave) ⭐ 45 | 🐛 11 | 🌐 Game Maker Language | 📅 2025-10-13 - Simple file saving system.
 * [Dynamo](https://github.com/JujuAdams/Dynamo) ⭐ 36 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-07-08 - Dynamic data loader.
-* [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) ⭐ 35 | 🐛 22 | 🌐 Game Maker Language | 📅 2026-11-22 - General purpose game editor.
+* [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) ⭐ 35 | 🐛 19 | 🌐 Game Maker Language | 📅 2026-11-23 - General purpose game editor.
 * [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) ⭐ 34 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-08-18 - A tool to benchmark GML code.
 * [FAST](https://github.com/Hyomoto/FAST) ⭐ 32 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-02-23 - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
 * [Seedpod](https://github.com/daikon-games/gm-seedpod) ⭐ 29 | 🐛 1 | 🌐 Game Maker Language | 📅 2023-07-18 - A collection of scripts to improve the GML programming experience.
@@ -224,7 +224,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## User Interface
 
-* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 420 | 🐛 31 | 🌐 Game Maker Language | 📅 2026-10-30 - Efficient multi-effects text renderer.
+* [Scribble](https://github.com/JujuAdams/scribble) ⭐ 420 | 🐛 32 | 🌐 Game Maker Language | 📅 2026-10-30 - Efficient multi-effects text renderer.
 * [Chatterbox](https://github.com/JujuAdams/chatterbox) ⭐ 176 | 🐛 10 | 🌐 Game Maker Language | 📅 2026-08-13 - Narrative scripting tool.
 * [Crochet](https://github.com/FaultyFunctions/Crochet) ⭐ 124 | 🐛 38 | 🌐 Svelte | 📅 2026-09-19 - An interactive dialogue editor for writers and programmers.
 * [Textboxy](https://github.com/glitchroy/textboxy) ⭐ 64 | 🐛 9 | 🌐 Game Maker Language | 📅 2023-03-05 - Simple textboxes.
@@ -232,7 +232,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [Bento](https://github.com/JujuAdams/Bento) ⭐ 56 | 🐛 1 | 🌐 Game Maker Language | 📅 2026-11-11 - Cross-platform UI framework.
 * [NotificationSystem](https://github.com/babaganosch/NotificationSystem) ⭐ 44 | 🐛 0 | 🌐 Yacc | 📅 2023-12-28 - Notifications in GameMaker.
 * [Emu UI](https://github.com/DragoniteSpam/Emu) ⭐ 44 | 🐛 5 | 🌐 Game Maker Language | 📅 2026-11-15 - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
-* [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 36 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-11-02 - Flexpanel system for modern, touch-friendly interfaces.
+* [LimeUI](https://github.com/Limekys/LimeUI) ⭐ 36 | 🐛 2 | 🌐 Game Maker Language | 📅 2026-11-23 - Flexpanel system for modern, touch-friendly interfaces.
 * [GMUI](https://github.com/erkan612/GMUI) ⭐ 34 | 🐛 0 | 🌐 Game Maker Language | 📅 2026-09-08 - Immediate mode GameMaker UI library, tons of UI components.
 * [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) ⭐ 29 | 🐛 21 | 🌐 Game Maker Language | 📅 2021-07-20 - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
 * [Guido](https://github.com/JujuAdams/Guido) ⚠️ Archived - Simple immediate mode GUI framework.
@@ -310,7 +310,7 @@ Things that work with project files or GameMaker itself rather than being someth
 
 ## Levels
 
-* [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) ⭐ 145 | 🐛 6 | 🌐 Game Maker Language | 📅 2026-08-17 - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
+* [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) ⭐ 146 | 🐛 6 | 🌐 Game Maker Language | 📅 2026-08-17 - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
 * [LDtkParser](https://github.com/evolutionleo/LDtkParser) ⭐ 65 | 🐛 3 | 🌐 Game Maker Language | 📅 2025-08-14 - Advanced LDtk Importer.
 * [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) ⭐ 58 | 🐛 2 | 🌐 Game Maker Language | 📅 2018-03-03 - A random level generation example (similar to Nuclear Throne) using GameMaker.
 * [Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) ⭐ 31 | 🐛 2 | 🌐 Game Maker Language | 📅 2023-04-17 - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
@@ -369,7 +369,7 @@ Things that work with project files or GameMaker itself rather than being someth
 * [3D-2D](https://github.com/YoYoGames/3D-2D) ⭐ 49 | 🐛 2 | 🌐 Game Maker Language | 📅 2023-03-27 - Official tool to turn 3D models into 2D sprites.
 * [dotobj](https://github.com/JujuAdams/dotobj) ⭐ 47 | 🐛 3 | 🌐 Game Maker Language | 📅 2025-10-12 - Lightweight .obj/.mtl 3D model loader written in native GML.
 * [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2026-08-21 - Import/Export tools to load vertex buffer data out of Blender and into GMS.
-* [Bonk](https://github.com/JujuAdams/Bonk) ⭐ 16 | 🐛 12 | 🌐 Game Maker Language | 📅 2026-11-21 - Another cool collision library handling a majority of collision shape use-cases.
+* [Bonk](https://github.com/JujuAdams/Bonk) ⭐ 16 | 🐛 12 | 🌐 Game Maker Language | 📅 2026-11-22 - Another cool collision library handling a majority of collision shape use-cases.
 * [Three Mice In a Trench Coat](https://github.com/XorDev/ThreeMiceInaTrenchcoat) ⭐ 10 | 🐛 0 | 🌐 Yacc | 📅 2021-06-25 - Source for a GameMaker 3D game.
 * [GMFlux](https://github.com/Fanatrick/GMFlux) ⭐ 9 | 🐛 1 | 🌐 GLSL | 📅 2022-11-08 - Heightfield fluid simulation solver.
 * [Bronze Box](https://github.com/cicadian/Bronze-Box) ⭐ 6 | 🐛 0 | 🌐 Yacc | 📅 2022-07-23 - Example of how to build 3D world models from a 2D grid.
@@ -526,7 +526,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 ## Footnotes
 
-* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,231 | 🐛 45 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,848 | 🐛 4 | 🌐 Markdown | 📅 2026-11-19.
+* If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,232 | 🐛 46 | 📅 2026-08-25 or [MagicTools](https://github.com/ellisonleao/magictools) ⭐ 17,856 | 🐛 8 | 🌐 Markdown | 📅 2026-11-19.
 * This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) ⭐ 3 | 🐛 0 | 📅 2021-08-09 and from Gleb Tsereteli with additional links/details.
 * A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
 
@@ -540,4 +540,4 @@ Have something awesome to share? Check out the [Contributing Guidelines](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
