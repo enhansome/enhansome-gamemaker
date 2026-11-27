@@ -2467,11 +2467,11 @@
             "id": 499335934,
             "language": "Game Maker Language",
             "license": "MIT",
-            "last_commit": "2026-11-25T00:07:45Z",
+            "last_commit": "2026-11-26T23:59:57Z",
             "open_issues": 2,
             "owner": "Limekys",
             "repo": "LimeUI",
-            "stars": 36,
+            "stars": 35,
             "topics": []
           },
           "first_seen": "2026-08-28T11:21:20.857Z"
@@ -5131,7 +5131,7 @@
             "language": null,
             "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
             "stars": 3238,
@@ -5171,7 +5171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:11:58.374Z",
+    "last_updated": "2026-11-27T08:24:06.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome libraries, snippets, guides, and projects for GameMaker.",
